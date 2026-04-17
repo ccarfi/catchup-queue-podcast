@@ -3,17 +3,26 @@
   <channel>
     <title>Genghis Catchup Queue</title>
     <description>My catch-up queue</description>
-    <link>https://drive.google.com</link>
+    <link>https://github.com/ccarfi/catchup-queue-podcast</link>
     <language>en-us</language>
     <itunes:author>Genghis</itunes:author>
     <itunes:summary>My catch-up queue</itunes:summary>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Personal Journals" />
-    <lastBuildDate>Fri, 17 Apr 2026 16:29:10 GMT</lastBuildDate>
+    <lastBuildDate>Fri, 17 Apr 2026 16:36:12 GMT</lastBuildDate>
+    <item>
+      <title>catchup - J Wortham 🌿 - Stealing Magnolias - 2026-04-17-093544</title>
+      <description>Added from catchupQueue on 2026-04-17</description>
+      <pubDate>Fri, 17 Apr 2026 16:36:12 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1CBJRPUtH2buPkoABoLkroXpnAV5E0BH_" length="3692160" type="audio/mpeg" />
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1CBJRPUtH2buPkoABoLkroXpnAV5E0BH_</guid>
+      <itunes:author>Genghis</itunes:author>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <item>
       <title>catchup - J Wortham 🌿 - Stealing Magnolias - 2026-04-17-092850</title>
       <description>Added from catchupQueue on 2026-04-17</description>
-      <pubDate>Invalid Date</pubDate>
+      <pubDate>Fri, 17 Apr 2026 16:36:12 GMT</pubDate>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Cy76AeNapfXp8pHm-Dd0hkLIkITqxyf_" length="3498624" type="audio/mpeg" />
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1Cy76AeNapfXp8pHm-Dd0hkLIkITqxyf_</guid>
       <itunes:author>Genghis</itunes:author>
