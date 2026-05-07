@@ -16,141 +16,11 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
     </image>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Personal Journals" />
-    <lastBuildDate>Wed, 06 May 2026 11:31:26 GMT</lastBuildDate>
-    <item>
-      <title>Meditations in an Emergency - Notes on Violence and Voice - Part 1 of 4 - 2026-04-30-103241</title>
-      <description>Added from catchupQueue on 2026-04-30 (Part 1 of 4)</description>
-      <pubDate>Wed, 06 May 2026 11:31:25 GMT</pubDate>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1CdZxlRSPk8UKctcrqumZ3-yo_NlR2R8U" length="3631488" type="audio/mpeg" />
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1CdZxlRSPk8UKctcrqumZ3-yo_NlR2R8U</guid>
-      <itunes:author>Genghis</itunes:author>
-      <itunes:image href="https://raw.githubusercontent.com/ccarfi/catchup-queue-podcast/main/cover.jpg" />
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Meditations in an Emergency - Notes on Violence and Voice - Part 2 of 4 - 2026-04-30-103322</title>
-      <description>Added from catchupQueue on 2026-04-30 (Part 2 of 4)</description>
-      <pubDate>Wed, 06 May 2026 11:31:25 GMT</pubDate>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1SUm7m1Ada4OQv122xWPWRARKvElIg9dj" length="3645696" type="audio/mpeg" />
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1SUm7m1Ada4OQv122xWPWRARKvElIg9dj</guid>
-      <itunes:author>Genghis</itunes:author>
-      <itunes:image href="https://raw.githubusercontent.com/ccarfi/catchup-queue-podcast/main/cover.jpg" />
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Meditations in an Emergency - Notes on Violence and Voice - Part 3 of 4 - 2026-04-30-103402</title>
-      <description>Added from catchupQueue on 2026-04-30 (Part 3 of 4)</description>
-      <pubDate>Wed, 06 May 2026 11:31:25 GMT</pubDate>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1LW1hFN1V6N-UWxEOMqlZMeitkBqhcrQT" length="3710592" type="audio/mpeg" />
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1LW1hFN1V6N-UWxEOMqlZMeitkBqhcrQT</guid>
-      <itunes:author>Genghis</itunes:author>
-      <itunes:image href="https://raw.githubusercontent.com/ccarfi/catchup-queue-podcast/main/cover.jpg" />
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Meditations in an Emergency - Notes on Violence and Voice - Part 4 of 4 - 2026-04-30-103424</title>
-      <description>Added from catchupQueue on 2026-04-30 (Part 4 of 4)</description>
-      <pubDate>Wed, 06 May 2026 11:31:25 GMT</pubDate>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1EoD7WQQdRk4eyiR2XNEyilwqz86tWw_A" length="1705728" type="audio/mpeg" />
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1EoD7WQQdRk4eyiR2XNEyilwqz86tWw_A</guid>
-      <itunes:author>Genghis</itunes:author>
-      <itunes:image href="https://raw.githubusercontent.com/ccarfi/catchup-queue-podcast/main/cover.jpg" />
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Unlock Protocol - Unlock DAO Newsletter | April 2026 - Part 1 of 2 - 2026-04-30-125240</title>
-      <description>Added from catchupQueue on 2026-04-30 (Part 1 of 2)</description>
-      <pubDate>Wed, 06 May 2026 11:31:25 GMT</pubDate>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1hsavLu78lY4KItAhCp8y1NR1W4QDj0u_" length="4051968" type="audio/mpeg" />
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1hsavLu78lY4KItAhCp8y1NR1W4QDj0u_</guid>
-      <itunes:author>Genghis</itunes:author>
-      <itunes:image href="https://raw.githubusercontent.com/ccarfi/catchup-queue-podcast/main/cover.jpg" />
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Unlock Protocol - Unlock DAO Newsletter | April 2026 - Part 2 of 2 - 2026-04-30-125314</title>
-      <description>Added from catchupQueue on 2026-04-30 (Part 2 of 2)</description>
-      <pubDate>Wed, 06 May 2026 11:31:25 GMT</pubDate>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1kKjn3ijaMscG--FmQ4clXj_KbehoMVVw" length="3223296" type="audio/mpeg" />
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1kKjn3ijaMscG--FmQ4clXj_KbehoMVVw</guid>
-      <itunes:author>Genghis</itunes:author>
-      <itunes:image href="https://raw.githubusercontent.com/ccarfi/catchup-queue-podcast/main/cover.jpg" />
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Milk Road - 🥛 Blockchains win. Tokens maybe. ⚡ - Part 1 of 4 - 2026-04-30-125422</title>
-      <description>Added from catchupQueue on 2026-04-30 (Part 1 of 4)</description>
-      <pubDate>Wed, 06 May 2026 11:31:25 GMT</pubDate>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=113Y0DZszYC1g5GfglOzxZ8ZgAboPAf_S" length="3786624" type="audio/mpeg" />
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=113Y0DZszYC1g5GfglOzxZ8ZgAboPAf_S</guid>
-      <itunes:author>Genghis</itunes:author>
-      <itunes:image href="https://raw.githubusercontent.com/ccarfi/catchup-queue-podcast/main/cover.jpg" />
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Milk Road - 🥛 Blockchains win. Tokens maybe. ⚡ - Part 2 of 4 - 2026-04-30-125459</title>
-      <description>Added from catchupQueue on 2026-04-30 (Part 2 of 4)</description>
-      <pubDate>Wed, 06 May 2026 11:31:25 GMT</pubDate>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1VOutsN_w2TY6MmnJ3B4frCfZoPyAcwY1" length="3615360" type="audio/mpeg" />
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1VOutsN_w2TY6MmnJ3B4frCfZoPyAcwY1</guid>
-      <itunes:author>Genghis</itunes:author>
-      <itunes:image href="https://raw.githubusercontent.com/ccarfi/catchup-queue-podcast/main/cover.jpg" />
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Milk Road - 🥛 Blockchains win. Tokens maybe. ⚡ - Part 3 of 4 - 2026-04-30-125540</title>
-      <description>Added from catchupQueue on 2026-04-30 (Part 3 of 4)</description>
-      <pubDate>Wed, 06 May 2026 11:31:25 GMT</pubDate>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1JzpBA4wEYOi_D5JaFHYmpwOXcECKL8kU" length="3794688" type="audio/mpeg" />
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1JzpBA4wEYOi_D5JaFHYmpwOXcECKL8kU</guid>
-      <itunes:author>Genghis</itunes:author>
-      <itunes:image href="https://raw.githubusercontent.com/ccarfi/catchup-queue-podcast/main/cover.jpg" />
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Milk Road - 🥛 Blockchains win. Tokens maybe. ⚡ - Part 4 of 4 - 2026-04-30-125616</title>
-      <description>Added from catchupQueue on 2026-04-30 (Part 4 of 4)</description>
-      <pubDate>Wed, 06 May 2026 11:31:25 GMT</pubDate>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Z84Yt71Zb5lTmhjxIFjWhOkilqn7PRo7" length="3216768" type="audio/mpeg" />
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1Z84Yt71Zb5lTmhjxIFjWhOkilqn7PRo7</guid>
-      <itunes:author>Genghis</itunes:author>
-      <itunes:image href="https://raw.githubusercontent.com/ccarfi/catchup-queue-podcast/main/cover.jpg" />
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Andrew McLuhan from The McLuhan Newsletter - We Have No Reason To Be Grateful - Part 1 of 3 - 2026-04-30-135558</title>
-      <description>Added from catchupQueue on 2026-04-30 (Part 1 of 3)</description>
-      <pubDate>Wed, 06 May 2026 11:31:25 GMT</pubDate>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1AenvuRzyblKx20lIXzVZ5uPhDwjAU-Af" length="3874560" type="audio/mpeg" />
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1AenvuRzyblKx20lIXzVZ5uPhDwjAU-Af</guid>
-      <itunes:author>Genghis</itunes:author>
-      <itunes:image href="https://raw.githubusercontent.com/ccarfi/catchup-queue-podcast/main/cover.jpg" />
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Andrew McLuhan from The McLuhan Newsletter - We Have No Reason To Be Grateful - Part 2 of 3 - 2026-04-30-135637</title>
-      <description>Added from catchupQueue on 2026-04-30 (Part 2 of 3)</description>
-      <pubDate>Wed, 06 May 2026 11:31:25 GMT</pubDate>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1QTky5euAW6Ol2-I36021OX_QG2TF8u6P" length="3800064" type="audio/mpeg" />
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1QTky5euAW6Ol2-I36021OX_QG2TF8u6P</guid>
-      <itunes:author>Genghis</itunes:author>
-      <itunes:image href="https://raw.githubusercontent.com/ccarfi/catchup-queue-podcast/main/cover.jpg" />
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Andrew McLuhan from The McLuhan Newsletter - We Have No Reason To Be Grateful - Part 3 of 3 - 2026-04-30-135654</title>
-      <description>Added from catchupQueue on 2026-04-30 (Part 3 of 3)</description>
-      <pubDate>Wed, 06 May 2026 11:31:25 GMT</pubDate>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=18ZEM_h2uTPTtSYL09dF2GSCUcAVOsRgI" length="1340928" type="audio/mpeg" />
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=18ZEM_h2uTPTtSYL09dF2GSCUcAVOsRgI</guid>
-      <itunes:author>Genghis</itunes:author>
-      <itunes:image href="https://raw.githubusercontent.com/ccarfi/catchup-queue-podcast/main/cover.jpg" />
-      <itunes:explicit>false</itunes:explicit>
-    </item>
+    <lastBuildDate>Thu, 07 May 2026 11:31:21 GMT</lastBuildDate>
     <item>
       <title>Austin Kleon - Return of the snail! - Part 1 of 1 - 2026-05-01-054016</title>
       <description>Added from catchupQueue on 2026-05-01 (Part 1 of 1)</description>
-      <pubDate>Wed, 06 May 2026 11:31:25 GMT</pubDate>
+      <pubDate>Thu, 07 May 2026 11:31:21 GMT</pubDate>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1mIeC7OSuT0CKrn5SR4unegXERPQJ6g3r" length="2853120" type="audio/mpeg" />
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1mIeC7OSuT0CKrn5SR4unegXERPQJ6g3r</guid>
       <itunes:author>Genghis</itunes:author>
@@ -160,7 +30,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <item>
       <title>Grist | Looking Forward - Ribbeters and roads - Part 1 of 3 - 2026-05-01-091914</title>
       <description>Added from catchupQueue on 2026-05-01 (Part 1 of 3)</description>
-      <pubDate>Wed, 06 May 2026 11:31:25 GMT</pubDate>
+      <pubDate>Thu, 07 May 2026 11:31:21 GMT</pubDate>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1lim1YU43menoIuqP7vNLhvma8gmYP2aW" length="3585792" type="audio/mpeg" />
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1lim1YU43menoIuqP7vNLhvma8gmYP2aW</guid>
       <itunes:author>Genghis</itunes:author>
@@ -170,7 +40,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <item>
       <title>Grist | Looking Forward - Ribbeters and roads - Part 2 of 3 - 2026-05-01-091956</title>
       <description>Added from catchupQueue on 2026-05-01 (Part 2 of 3)</description>
-      <pubDate>Wed, 06 May 2026 11:31:25 GMT</pubDate>
+      <pubDate>Thu, 07 May 2026 11:31:21 GMT</pubDate>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=14XIMOn8uNMO4Z72t_5GMw9wymwLCRLnE" length="3642624" type="audio/mpeg" />
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=14XIMOn8uNMO4Z72t_5GMw9wymwLCRLnE</guid>
       <itunes:author>Genghis</itunes:author>
@@ -180,7 +50,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <item>
       <title>Grist | Looking Forward - Ribbeters and roads - Part 3 of 3 - 2026-05-01-092009</title>
       <description>Added from catchupQueue on 2026-05-01 (Part 3 of 3)</description>
-      <pubDate>Wed, 06 May 2026 11:31:25 GMT</pubDate>
+      <pubDate>Thu, 07 May 2026 11:31:21 GMT</pubDate>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1TuReCMcssrm_I-c2v1ebe9Urc_LTje_y" length="869760" type="audio/mpeg" />
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1TuReCMcssrm_I-c2v1ebe9Urc_LTje_y</guid>
       <itunes:author>Genghis</itunes:author>
@@ -190,7 +60,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <item>
       <title>Scott Galloway - The Reckoning - Part 1 of 3 - 2026-05-01-100646</title>
       <description>Added from catchupQueue on 2026-05-01 (Part 1 of 3)</description>
-      <pubDate>Wed, 06 May 2026 11:31:25 GMT</pubDate>
+      <pubDate>Thu, 07 May 2026 11:31:21 GMT</pubDate>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1rAQJsXtBT-edVvhIok62bJsYNHQ0H_OP" length="3774720" type="audio/mpeg" />
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1rAQJsXtBT-edVvhIok62bJsYNHQ0H_OP</guid>
       <itunes:author>Genghis</itunes:author>
@@ -200,7 +70,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <item>
       <title>Scott Galloway - The Reckoning - Part 2 of 3 - 2026-05-01-100746</title>
       <description>Added from catchupQueue on 2026-05-01 (Part 2 of 3)</description>
-      <pubDate>Wed, 06 May 2026 11:31:25 GMT</pubDate>
+      <pubDate>Thu, 07 May 2026 11:31:21 GMT</pubDate>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1dOoKvGJ5Bc5ocqNr-BJsTQZY0cNWQWnz" length="3601920" type="audio/mpeg" />
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1dOoKvGJ5Bc5ocqNr-BJsTQZY0cNWQWnz</guid>
       <itunes:author>Genghis</itunes:author>
@@ -210,7 +80,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <item>
       <title>Scott Galloway - The Reckoning - Part 3 of 3 - 2026-05-01-100809</title>
       <description>Added from catchupQueue on 2026-05-01 (Part 3 of 3)</description>
-      <pubDate>Wed, 06 May 2026 11:31:25 GMT</pubDate>
+      <pubDate>Thu, 07 May 2026 11:31:21 GMT</pubDate>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1H7q9yJam4gZDwScjnlYew_Qe7fXtSvqh" length="1472256" type="audio/mpeg" />
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1H7q9yJam4gZDwScjnlYew_Qe7fXtSvqh</guid>
       <itunes:author>Genghis</itunes:author>
@@ -220,7 +90,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <item>
       <title>Milk Road - 🥛 Two scarcities are running the market ⚡️💻 - Part 1 of 2 - 2026-05-01-134601</title>
       <description>Added from catchupQueue on 2026-05-01 (Part 1 of 2)</description>
-      <pubDate>Wed, 06 May 2026 11:31:25 GMT</pubDate>
+      <pubDate>Thu, 07 May 2026 11:31:21 GMT</pubDate>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=19l9O-yTfdwh4BSaCats-Drqs4kiqtfyC" length="3887232" type="audio/mpeg" />
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=19l9O-yTfdwh4BSaCats-Drqs4kiqtfyC</guid>
       <itunes:author>Genghis</itunes:author>
@@ -230,7 +100,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <item>
       <title>Milk Road - 🥛 Two scarcities are running the market ⚡️💻 - Part 2 of 2 - 2026-05-01-134632</title>
       <description>Added from catchupQueue on 2026-05-01 (Part 2 of 2)</description>
-      <pubDate>Wed, 06 May 2026 11:31:25 GMT</pubDate>
+      <pubDate>Thu, 07 May 2026 11:31:21 GMT</pubDate>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1wWskKsK6nVrcTqlTxAWvuV8HsPI9dRYr" length="2562432" type="audio/mpeg" />
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1wWskKsK6nVrcTqlTxAWvuV8HsPI9dRYr</guid>
       <itunes:author>Genghis</itunes:author>
@@ -240,7 +110,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <item>
       <title>Burning Man Journal via Feedrabbit - Burning Man Journal: Fertile Ground: Burner Land Projects Flourish - Part 1 of 3 - 2026-05-02-100121</title>
       <description>Added from catchupQueue on 2026-05-02 (Part 1 of 3)</description>
-      <pubDate>Wed, 06 May 2026 11:31:25 GMT</pubDate>
+      <pubDate>Thu, 07 May 2026 11:31:21 GMT</pubDate>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1mN2qAcf6qOuF-wVpCp0FSQ1uss6O2kCQ" length="3864192" type="audio/mpeg" />
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1mN2qAcf6qOuF-wVpCp0FSQ1uss6O2kCQ</guid>
       <itunes:author>Genghis</itunes:author>
@@ -250,7 +120,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <item>
       <title>Burning Man Journal via Feedrabbit - Burning Man Journal: Fertile Ground: Burner Land Projects Flourish - Part 2 of 3 - 2026-05-02-100201</title>
       <description>Added from catchupQueue on 2026-05-02 (Part 2 of 3)</description>
-      <pubDate>Wed, 06 May 2026 11:31:25 GMT</pubDate>
+      <pubDate>Thu, 07 May 2026 11:31:21 GMT</pubDate>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1ks9q0PAtVBdtISz2uz2HG0JQ8PYzUy8Y" length="3434496" type="audio/mpeg" />
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1ks9q0PAtVBdtISz2uz2HG0JQ8PYzUy8Y</guid>
       <itunes:author>Genghis</itunes:author>
@@ -260,7 +130,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <item>
       <title>Burning Man Journal via Feedrabbit - Burning Man Journal: Fertile Ground: Burner Land Projects Flourish - Part 3 of 3 - 2026-05-02-100225</title>
       <description>Added from catchupQueue on 2026-05-02 (Part 3 of 3)</description>
-      <pubDate>Wed, 06 May 2026 11:31:25 GMT</pubDate>
+      <pubDate>Thu, 07 May 2026 11:31:21 GMT</pubDate>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1zi41jhNRKAca02fawua_mJBU6lVeloTB" length="2055168" type="audio/mpeg" />
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1zi41jhNRKAca02fawua_mJBU6lVeloTB</guid>
       <itunes:author>Genghis</itunes:author>
@@ -270,7 +140,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <item>
       <title>Kareem Abdul-Jabbar - More Than Just a Map, The Art of the Endless Distraction, &amp; How Much Is a Dream Worth? - Part 1 of 6 - 2026-05-02-100340</title>
       <description>Added from catchupQueue on 2026-05-02 (Part 1 of 6)</description>
-      <pubDate>Wed, 06 May 2026 11:31:25 GMT</pubDate>
+      <pubDate>Thu, 07 May 2026 11:31:21 GMT</pubDate>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1ofzpTscOQjm5iwr4vR-Pwqqbb7VXnY70" length="3466368" type="audio/mpeg" />
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1ofzpTscOQjm5iwr4vR-Pwqqbb7VXnY70</guid>
       <itunes:author>Genghis</itunes:author>
@@ -280,7 +150,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <item>
       <title>Kareem Abdul-Jabbar - More Than Just a Map, The Art of the Endless Distraction, &amp; How Much Is a Dream Worth? - Part 2 of 6 - 2026-05-02-100420</title>
       <description>Added from catchupQueue on 2026-05-02 (Part 2 of 6)</description>
-      <pubDate>Wed, 06 May 2026 11:31:25 GMT</pubDate>
+      <pubDate>Thu, 07 May 2026 11:31:21 GMT</pubDate>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1hcyLmzyYtYKEEJ1u-jJko8uIyqh_Js8K" length="3608832" type="audio/mpeg" />
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1hcyLmzyYtYKEEJ1u-jJko8uIyqh_Js8K</guid>
       <itunes:author>Genghis</itunes:author>
@@ -290,7 +160,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <item>
       <title>Kareem Abdul-Jabbar - More Than Just a Map, The Art of the Endless Distraction, &amp; How Much Is a Dream Worth? - Part 3 of 6 - 2026-05-02-100501</title>
       <description>Added from catchupQueue on 2026-05-02 (Part 3 of 6)</description>
-      <pubDate>Wed, 06 May 2026 11:31:26 GMT</pubDate>
+      <pubDate>Thu, 07 May 2026 11:31:21 GMT</pubDate>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1McHQcFaKG5MHKvzbLe261F4pYWoQZcdk" length="3683328" type="audio/mpeg" />
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1McHQcFaKG5MHKvzbLe261F4pYWoQZcdk</guid>
       <itunes:author>Genghis</itunes:author>
@@ -300,7 +170,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <item>
       <title>Kareem Abdul-Jabbar - More Than Just a Map, The Art of the Endless Distraction, &amp; How Much Is a Dream Worth? - Part 4 of 6 - 2026-05-02-100541</title>
       <description>Added from catchupQueue on 2026-05-02 (Part 4 of 6)</description>
-      <pubDate>Wed, 06 May 2026 11:31:26 GMT</pubDate>
+      <pubDate>Thu, 07 May 2026 11:31:21 GMT</pubDate>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1v7z5Vi1opl39FseRy92A31X-0fhHYlDm" length="3537024" type="audio/mpeg" />
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1v7z5Vi1opl39FseRy92A31X-0fhHYlDm</guid>
       <itunes:author>Genghis</itunes:author>
@@ -310,7 +180,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <item>
       <title>Kareem Abdul-Jabbar - More Than Just a Map, The Art of the Endless Distraction, &amp; How Much Is a Dream Worth? - Part 5 of 6 - 2026-05-02-100618</title>
       <description>Added from catchupQueue on 2026-05-02 (Part 5 of 6)</description>
-      <pubDate>Wed, 06 May 2026 11:31:26 GMT</pubDate>
+      <pubDate>Thu, 07 May 2026 11:31:21 GMT</pubDate>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1a_kAVsucOtV0kx0qCa4u_4cq2xTEf8qh" length="3458688" type="audio/mpeg" />
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1a_kAVsucOtV0kx0qCa4u_4cq2xTEf8qh</guid>
       <itunes:author>Genghis</itunes:author>
@@ -320,7 +190,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <item>
       <title>Kareem Abdul-Jabbar - More Than Just a Map, The Art of the Endless Distraction, &amp; How Much Is a Dream Worth? - Part 6 of 6 - 2026-05-02-100653</title>
       <description>Added from catchupQueue on 2026-05-02 (Part 6 of 6)</description>
-      <pubDate>Wed, 06 May 2026 11:31:26 GMT</pubDate>
+      <pubDate>Thu, 07 May 2026 11:31:21 GMT</pubDate>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=12tf6zYyC3s78f05xL0Nbdj9ZrvjRCPSR" length="2764032" type="audio/mpeg" />
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=12tf6zYyC3s78f05xL0Nbdj9ZrvjRCPSR</guid>
       <itunes:author>Genghis</itunes:author>
@@ -330,7 +200,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <item>
       <title>Azeem Azhar, Exponential View - 🔮 Exponential View #572: AI’s moats, myths and moral loopholes - Part 1 of 3 - 2026-05-02-220507</title>
       <description>Added from catchupQueue on 2026-05-02 (Part 1 of 3)</description>
-      <pubDate>Wed, 06 May 2026 11:31:26 GMT</pubDate>
+      <pubDate>Thu, 07 May 2026 11:31:21 GMT</pubDate>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=11lk1ZUnrSxao8WNsTR78ATErXY8UEZVH" length="3706368" type="audio/mpeg" />
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=11lk1ZUnrSxao8WNsTR78ATErXY8UEZVH</guid>
       <itunes:author>Genghis</itunes:author>
@@ -340,7 +210,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <item>
       <title>Azeem Azhar, Exponential View - 🔮 Exponential View #572: AI’s moats, myths and moral loopholes - Part 2 of 3 - 2026-05-02-220548</title>
       <description>Added from catchupQueue on 2026-05-02 (Part 2 of 3)</description>
-      <pubDate>Wed, 06 May 2026 11:31:26 GMT</pubDate>
+      <pubDate>Thu, 07 May 2026 11:31:21 GMT</pubDate>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1lypZgPjdx-mkfsiKyuIGCq12mvAjp8cZ" length="3864960" type="audio/mpeg" />
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1lypZgPjdx-mkfsiKyuIGCq12mvAjp8cZ</guid>
       <itunes:author>Genghis</itunes:author>
@@ -350,7 +220,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <item>
       <title>Azeem Azhar, Exponential View - 🔮 Exponential View #572: AI’s moats, myths and moral loopholes - Part 3 of 3 - 2026-05-02-220558</title>
       <description>Added from catchupQueue on 2026-05-02 (Part 3 of 3)</description>
-      <pubDate>Wed, 06 May 2026 11:31:26 GMT</pubDate>
+      <pubDate>Thu, 07 May 2026 11:31:21 GMT</pubDate>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1kNrdkB4v_VUEx4OkvpQ-XjCPCUucfWv9" length="583296" type="audio/mpeg" />
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1kNrdkB4v_VUEx4OkvpQ-XjCPCUucfWv9</guid>
       <itunes:author>Genghis</itunes:author>
@@ -360,7 +230,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <item>
       <title>Meditations in an Emergency - Truth, Consequences, Climate, and Demand Destruction - Part 1 of 5 - 2026-05-03-093940</title>
       <description>Added from catchupQueue on 2026-05-03 (Part 1 of 5)</description>
-      <pubDate>Wed, 06 May 2026 11:31:26 GMT</pubDate>
+      <pubDate>Thu, 07 May 2026 11:31:21 GMT</pubDate>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1v_iv8iO4U8DlqlLrWsgAzpHDq-5n2eqd" length="3616896" type="audio/mpeg" />
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1v_iv8iO4U8DlqlLrWsgAzpHDq-5n2eqd</guid>
       <itunes:author>Genghis</itunes:author>
@@ -370,7 +240,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <item>
       <title>Meditations in an Emergency - Truth, Consequences, Climate, and Demand Destruction - Part 2 of 5 - 2026-05-03-094023</title>
       <description>Added from catchupQueue on 2026-05-03 (Part 2 of 5)</description>
-      <pubDate>Wed, 06 May 2026 11:31:26 GMT</pubDate>
+      <pubDate>Thu, 07 May 2026 11:31:21 GMT</pubDate>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1zDjuTNcpOIiwMgDbpeu6YEMv1utty8aC" length="3761664" type="audio/mpeg" />
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1zDjuTNcpOIiwMgDbpeu6YEMv1utty8aC</guid>
       <itunes:author>Genghis</itunes:author>
@@ -380,7 +250,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <item>
       <title>Meditations in an Emergency - Truth, Consequences, Climate, and Demand Destruction - Part 3 of 5 - 2026-05-03-094103</title>
       <description>Added from catchupQueue on 2026-05-03 (Part 3 of 5)</description>
-      <pubDate>Wed, 06 May 2026 11:31:26 GMT</pubDate>
+      <pubDate>Thu, 07 May 2026 11:31:21 GMT</pubDate>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1qc5-jgaQnTJLnaJ1wbcazn4qe8JWCdpm" length="3628032" type="audio/mpeg" />
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1qc5-jgaQnTJLnaJ1wbcazn4qe8JWCdpm</guid>
       <itunes:author>Genghis</itunes:author>
@@ -390,7 +260,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <item>
       <title>Meditations in an Emergency - Truth, Consequences, Climate, and Demand Destruction - Part 4 of 5 - 2026-05-03-094146</title>
       <description>Added from catchupQueue on 2026-05-03 (Part 4 of 5)</description>
-      <pubDate>Wed, 06 May 2026 11:31:26 GMT</pubDate>
+      <pubDate>Thu, 07 May 2026 11:31:21 GMT</pubDate>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=15s_aJR9pYPXSwpZuVieefPQc-bEMHn8R" length="3624960" type="audio/mpeg" />
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=15s_aJR9pYPXSwpZuVieefPQc-bEMHn8R</guid>
       <itunes:author>Genghis</itunes:author>
@@ -400,7 +270,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <item>
       <title>Meditations in an Emergency - Truth, Consequences, Climate, and Demand Destruction - Part 5 of 5 - 2026-05-03-094216</title>
       <description>Added from catchupQueue on 2026-05-03 (Part 5 of 5)</description>
-      <pubDate>Wed, 06 May 2026 11:31:26 GMT</pubDate>
+      <pubDate>Thu, 07 May 2026 11:31:21 GMT</pubDate>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1mKDTdYo927QWkRkL9u9baj3k2hXfEsb2" length="2072064" type="audio/mpeg" />
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1mKDTdYo927QWkRkL9u9baj3k2hXfEsb2</guid>
       <itunes:author>Genghis</itunes:author>
@@ -410,7 +280,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <item>
       <title>Christopher S. Penn from Almost Timely Newsletter - Almost Timely News: 🗞️ The Broken Bargain of Big Tech (2026-05-03) - Part 1 of 5 - 2026-05-03-094332</title>
       <description>Added from catchupQueue on 2026-05-03 (Part 1 of 5)</description>
-      <pubDate>Wed, 06 May 2026 11:31:26 GMT</pubDate>
+      <pubDate>Thu, 07 May 2026 11:31:21 GMT</pubDate>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1dwFZMQNT4ZJyy_ye4HCMDCrOCNEJUV8u" length="3581568" type="audio/mpeg" />
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1dwFZMQNT4ZJyy_ye4HCMDCrOCNEJUV8u</guid>
       <itunes:author>Genghis</itunes:author>
@@ -420,7 +290,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <item>
       <title>Christopher S. Penn from Almost Timely Newsletter - Almost Timely News: 🗞️ The Broken Bargain of Big Tech (2026-05-03) - Part 2 of 5 - 2026-05-03-094414</title>
       <description>Added from catchupQueue on 2026-05-03 (Part 2 of 5)</description>
-      <pubDate>Wed, 06 May 2026 11:31:26 GMT</pubDate>
+      <pubDate>Thu, 07 May 2026 11:31:21 GMT</pubDate>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1WjLeybwxrpVqiAtYob_AHnFOVi8f7aAR" length="3621888" type="audio/mpeg" />
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1WjLeybwxrpVqiAtYob_AHnFOVi8f7aAR</guid>
       <itunes:author>Genghis</itunes:author>
@@ -430,7 +300,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <item>
       <title>Christopher S. Penn from Almost Timely Newsletter - Almost Timely News: 🗞️ The Broken Bargain of Big Tech (2026-05-03) - Part 3 of 5 - 2026-05-03-094501</title>
       <description>Added from catchupQueue on 2026-05-03 (Part 3 of 5)</description>
-      <pubDate>Wed, 06 May 2026 11:31:26 GMT</pubDate>
+      <pubDate>Thu, 07 May 2026 11:31:21 GMT</pubDate>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=154iaDYKedJt2ZoLQNwMTgeC0lgI0N4Io" length="3518592" type="audio/mpeg" />
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=154iaDYKedJt2ZoLQNwMTgeC0lgI0N4Io</guid>
       <itunes:author>Genghis</itunes:author>
@@ -440,7 +310,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <item>
       <title>Christopher S. Penn from Almost Timely Newsletter - Almost Timely News: 🗞️ The Broken Bargain of Big Tech (2026-05-03) - Part 4 of 5 - 2026-05-03-094542</title>
       <description>Added from catchupQueue on 2026-05-03 (Part 4 of 5)</description>
-      <pubDate>Wed, 06 May 2026 11:31:26 GMT</pubDate>
+      <pubDate>Thu, 07 May 2026 11:31:21 GMT</pubDate>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=15PR806uqtCGC4ftUnnsjOmscjIM860Un" length="3481728" type="audio/mpeg" />
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=15PR806uqtCGC4ftUnnsjOmscjIM860Un</guid>
       <itunes:author>Genghis</itunes:author>
@@ -450,7 +320,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <item>
       <title>Christopher S. Penn from Almost Timely Newsletter - Almost Timely News: 🗞️ The Broken Bargain of Big Tech (2026-05-03) - Part 5 of 5 - 2026-05-03-094601</title>
       <description>Added from catchupQueue on 2026-05-03 (Part 5 of 5)</description>
-      <pubDate>Wed, 06 May 2026 11:31:26 GMT</pubDate>
+      <pubDate>Thu, 07 May 2026 11:31:21 GMT</pubDate>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Evw6MDFBuH1LnuW3atObl3lnk3iUEHcN" length="1487232" type="audio/mpeg" />
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1Evw6MDFBuH1LnuW3atObl3lnk3iUEHcN</guid>
       <itunes:author>Genghis</itunes:author>
@@ -460,7 +330,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <item>
       <title>Grist - ⏰ Local Power, Global Impact: How Cities and States Are Leading on Climate Solutions is starting tomorrow - Part 1 of 1 - 2026-05-03-130344</title>
       <description>Added from catchupQueue on 2026-05-03 (Part 1 of 1)</description>
-      <pubDate>Wed, 06 May 2026 11:31:26 GMT</pubDate>
+      <pubDate>Thu, 07 May 2026 11:31:21 GMT</pubDate>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1KcB4CV8uV7W87elkwZu6d7qKWKNTefVC" length="524928" type="audio/mpeg" />
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1KcB4CV8uV7W87elkwZu6d7qKWKNTefVC</guid>
       <itunes:author>Genghis</itunes:author>
@@ -470,7 +340,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <item>
       <title>Kevin Kelly - Speculations on the Future of the Scientific Method - Part 1 of 4 - 2026-05-04-121437</title>
       <description>Added from catchupQueue on 2026-05-04 (Part 1 of 4)</description>
-      <pubDate>Wed, 06 May 2026 11:31:26 GMT</pubDate>
+      <pubDate>Thu, 07 May 2026 11:31:21 GMT</pubDate>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1ZB2Dcz2V4gJ2KiXmtz-xBp4KErQ6lxFz" length="3752832" type="audio/mpeg" />
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1ZB2Dcz2V4gJ2KiXmtz-xBp4KErQ6lxFz</guid>
       <itunes:author>Genghis</itunes:author>
@@ -480,7 +350,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <item>
       <title>Kevin Kelly - Speculations on the Future of the Scientific Method - Part 2 of 4 - 2026-05-04-121557</title>
       <description>Added from catchupQueue on 2026-05-04 (Part 2 of 4)</description>
-      <pubDate>Wed, 06 May 2026 11:31:26 GMT</pubDate>
+      <pubDate>Thu, 07 May 2026 11:31:21 GMT</pubDate>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1_MFYdvEj3oAYd0U3_lmXI7jGDjb4vZUc" length="3742464" type="audio/mpeg" />
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1_MFYdvEj3oAYd0U3_lmXI7jGDjb4vZUc</guid>
       <itunes:author>Genghis</itunes:author>
@@ -490,7 +360,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <item>
       <title>Kevin Kelly - Speculations on the Future of the Scientific Method - Part 3 of 4 - 2026-05-04-121640</title>
       <description>Added from catchupQueue on 2026-05-04 (Part 3 of 4)</description>
-      <pubDate>Wed, 06 May 2026 11:31:26 GMT</pubDate>
+      <pubDate>Thu, 07 May 2026 11:31:21 GMT</pubDate>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1ExSn29506xTDRgB7gUmiihZ4QGV4eNsS" length="3738624" type="audio/mpeg" />
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1ExSn29506xTDRgB7gUmiihZ4QGV4eNsS</guid>
       <itunes:author>Genghis</itunes:author>
@@ -500,7 +370,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <item>
       <title>Kevin Kelly - Speculations on the Future of the Scientific Method - Part 4 of 4 - 2026-05-04-121649</title>
       <description>Added from catchupQueue on 2026-05-04 (Part 4 of 4)</description>
-      <pubDate>Wed, 06 May 2026 11:31:26 GMT</pubDate>
+      <pubDate>Thu, 07 May 2026 11:31:21 GMT</pubDate>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1BIuI21NAuywnB0igJFvvzf4mtpLJKe_B" length="397824" type="audio/mpeg" />
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1BIuI21NAuywnB0igJFvvzf4mtpLJKe_B</guid>
       <itunes:author>Genghis</itunes:author>
@@ -510,7 +380,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <item>
       <title>Casey Newton - The Trump administration&apos;s AI doomer moment - Part 1 of 2 - 2026-05-05-173437</title>
       <description>Added from catchupQueue on 2026-05-05 (Part 1 of 2)</description>
-      <pubDate>Wed, 06 May 2026 11:31:26 GMT</pubDate>
+      <pubDate>Thu, 07 May 2026 11:31:21 GMT</pubDate>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1D0acy1QZ4eIm5T7GZgRwZTTeL3TU92ba" length="3600000" type="audio/mpeg" />
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1D0acy1QZ4eIm5T7GZgRwZTTeL3TU92ba</guid>
       <itunes:author>Genghis</itunes:author>
@@ -520,7 +390,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <item>
       <title>Casey Newton - The Trump administration&apos;s AI doomer moment - Part 2 of 2 - 2026-05-05-173516</title>
       <description>Added from catchupQueue on 2026-05-05 (Part 2 of 2)</description>
-      <pubDate>Wed, 06 May 2026 11:31:26 GMT</pubDate>
+      <pubDate>Thu, 07 May 2026 11:31:21 GMT</pubDate>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1ljTfTmoZrJwZ6Zh7DptFFWbQEvfEQBYC" length="3400320" type="audio/mpeg" />
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1ljTfTmoZrJwZ6Zh7DptFFWbQEvfEQBYC</guid>
       <itunes:author>Genghis</itunes:author>
@@ -530,7 +400,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <item>
       <title>Jason M. Lemkin via LinkedIn - What I Actually Replaced (And What I Didn’t). The Real Notes from an AI VP of Marketing - Part 1 of 3 - 2026-05-05-175002</title>
       <description>Added from catchupQueue on 2026-05-05 (Part 1 of 3)</description>
-      <pubDate>Wed, 06 May 2026 11:31:26 GMT</pubDate>
+      <pubDate>Thu, 07 May 2026 11:31:21 GMT</pubDate>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=10OfSkj4QeZEl6aejgLlMWlaNCyy_-Tgr" length="4175232" type="audio/mpeg" />
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=10OfSkj4QeZEl6aejgLlMWlaNCyy_-Tgr</guid>
       <itunes:author>Genghis</itunes:author>
@@ -540,7 +410,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <item>
       <title>Jason M. Lemkin via LinkedIn - What I Actually Replaced (And What I Didn’t). The Real Notes from an AI VP of Marketing - Part 2 of 3 - 2026-05-05-175044</title>
       <description>Added from catchupQueue on 2026-05-05 (Part 2 of 3)</description>
-      <pubDate>Wed, 06 May 2026 11:31:26 GMT</pubDate>
+      <pubDate>Thu, 07 May 2026 11:31:21 GMT</pubDate>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1TLPc-d8yPin3ExYNR96qu7WOu3zBHorx" length="3774720" type="audio/mpeg" />
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1TLPc-d8yPin3ExYNR96qu7WOu3zBHorx</guid>
       <itunes:author>Genghis</itunes:author>
@@ -550,9 +420,189 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <item>
       <title>Jason M. Lemkin via LinkedIn - What I Actually Replaced (And What I Didn’t). The Real Notes from an AI VP of Marketing - Part 3 of 3 - 2026-05-05-175057</title>
       <description>Added from catchupQueue on 2026-05-05 (Part 3 of 3)</description>
-      <pubDate>Wed, 06 May 2026 11:31:26 GMT</pubDate>
+      <pubDate>Thu, 07 May 2026 11:31:21 GMT</pubDate>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1K3IRBTUXKTDAOmNTZh4vkBSb5DlO8mLG" length="943488" type="audio/mpeg" />
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1K3IRBTUXKTDAOmNTZh4vkBSb5DlO8mLG</guid>
+      <itunes:author>Genghis</itunes:author>
+      <itunes:image href="https://raw.githubusercontent.com/ccarfi/catchup-queue-podcast/main/cover.jpg" />
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Scott Monty - Why Is a Real Relationship Worth the Trouble? - Part 1 of 2 - 2026-05-06-074550</title>
+      <description>Added from catchupQueue on 2026-05-06 (Part 1 of 2)</description>
+      <pubDate>Thu, 07 May 2026 11:31:21 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1lz2k43DPwa1FtKgQ1zBUwpnQkcqYwIRU" length="3680256" type="audio/mpeg" />
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1lz2k43DPwa1FtKgQ1zBUwpnQkcqYwIRU</guid>
+      <itunes:author>Genghis</itunes:author>
+      <itunes:image href="https://raw.githubusercontent.com/ccarfi/catchup-queue-podcast/main/cover.jpg" />
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Scott Monty - Why Is a Real Relationship Worth the Trouble? - Part 2 of 2 - 2026-05-06-074627</title>
+      <description>Added from catchupQueue on 2026-05-06 (Part 2 of 2)</description>
+      <pubDate>Thu, 07 May 2026 11:31:21 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1-lu1dOFBZ7e9Fh0liVg1C2HD3hFFsV0k" length="2274432" type="audio/mpeg" />
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1-lu1dOFBZ7e9Fh0liVg1C2HD3hFFsV0k</guid>
+      <itunes:author>Genghis</itunes:author>
+      <itunes:image href="https://raw.githubusercontent.com/ccarfi/catchup-queue-podcast/main/cover.jpg" />
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Phoenix Delgado - Black Rock City and Beyond: What’s Emerging for 2026 - Part 1 of 2 - 2026-05-06-103858</title>
+      <description>Added from catchupQueue on 2026-05-06 (Part 1 of 2)</description>
+      <pubDate>Thu, 07 May 2026 11:31:21 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1XR3fem07T3ZVLAbTSGx62D3zXsQSyMmm" length="3962496" type="audio/mpeg" />
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1XR3fem07T3ZVLAbTSGx62D3zXsQSyMmm</guid>
+      <itunes:author>Genghis</itunes:author>
+      <itunes:image href="https://raw.githubusercontent.com/ccarfi/catchup-queue-podcast/main/cover.jpg" />
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Phoenix Delgado - Black Rock City and Beyond: What’s Emerging for 2026 - Part 2 of 2 - 2026-05-06-103920</title>
+      <description>Added from catchupQueue on 2026-05-06 (Part 2 of 2)</description>
+      <pubDate>Thu, 07 May 2026 11:31:21 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Rupz5uKTMq9OUIqAoVg3Ay63UTZBHY-f" length="1571328" type="audio/mpeg" />
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1Rupz5uKTMq9OUIqAoVg3Ay63UTZBHY-f</guid>
+      <itunes:author>Genghis</itunes:author>
+      <itunes:image href="https://raw.githubusercontent.com/ccarfi/catchup-queue-podcast/main/cover.jpg" />
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Rachael Que Vargas - The Math That Makes Sense for Artists - Part 1 of 8 - 2026-05-06-111001</title>
+      <description>Added from catchupQueue on 2026-05-06 (Part 1 of 8)</description>
+      <pubDate>Thu, 07 May 2026 11:31:21 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1bI2mRQEyHCk0UoRjEiqsoUVqlnNrfeMw" length="3762432" type="audio/mpeg" />
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1bI2mRQEyHCk0UoRjEiqsoUVqlnNrfeMw</guid>
+      <itunes:author>Genghis</itunes:author>
+      <itunes:image href="https://raw.githubusercontent.com/ccarfi/catchup-queue-podcast/main/cover.jpg" />
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Rachael Que Vargas - The Math That Makes Sense for Artists - Part 2 of 8 - 2026-05-06-111048</title>
+      <description>Added from catchupQueue on 2026-05-06 (Part 2 of 8)</description>
+      <pubDate>Thu, 07 May 2026 11:31:21 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1UvThVNlLzYSRjNTIu4FfnBZ85Nvt-JVR" length="3721728" type="audio/mpeg" />
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1UvThVNlLzYSRjNTIu4FfnBZ85Nvt-JVR</guid>
+      <itunes:author>Genghis</itunes:author>
+      <itunes:image href="https://raw.githubusercontent.com/ccarfi/catchup-queue-podcast/main/cover.jpg" />
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Rachael Que Vargas - The Math That Makes Sense for Artists - Part 3 of 8 - 2026-05-06-111130</title>
+      <description>Added from catchupQueue on 2026-05-06 (Part 3 of 8)</description>
+      <pubDate>Thu, 07 May 2026 11:31:21 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1wttpnDiFdlM5rqGT0CgwYo9MHhP21FVH" length="3553920" type="audio/mpeg" />
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1wttpnDiFdlM5rqGT0CgwYo9MHhP21FVH</guid>
+      <itunes:author>Genghis</itunes:author>
+      <itunes:image href="https://raw.githubusercontent.com/ccarfi/catchup-queue-podcast/main/cover.jpg" />
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Rachael Que Vargas - The Math That Makes Sense for Artists - Part 4 of 8 - 2026-05-06-111257</title>
+      <description>Added from catchupQueue on 2026-05-06 (Part 4 of 8)</description>
+      <pubDate>Thu, 07 May 2026 11:31:21 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=132LjYwxIWByKgpUMVGXA9cKbd7YK1F5d" length="3564288" type="audio/mpeg" />
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=132LjYwxIWByKgpUMVGXA9cKbd7YK1F5d</guid>
+      <itunes:author>Genghis</itunes:author>
+      <itunes:image href="https://raw.githubusercontent.com/ccarfi/catchup-queue-podcast/main/cover.jpg" />
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Rachael Que Vargas - The Math That Makes Sense for Artists - Part 5 of 8 - 2026-05-06-111343</title>
+      <description>Added from catchupQueue on 2026-05-06 (Part 5 of 8)</description>
+      <pubDate>Thu, 07 May 2026 11:31:21 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1WKe2Zxdq53jVc12C0RHw6fGvAfYJ33a7" length="3734400" type="audio/mpeg" />
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1WKe2Zxdq53jVc12C0RHw6fGvAfYJ33a7</guid>
+      <itunes:author>Genghis</itunes:author>
+      <itunes:image href="https://raw.githubusercontent.com/ccarfi/catchup-queue-podcast/main/cover.jpg" />
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Rachael Que Vargas - The Math That Makes Sense for Artists - Part 6 of 8 - 2026-05-06-111419</title>
+      <description>Added from catchupQueue on 2026-05-06 (Part 6 of 8)</description>
+      <pubDate>Thu, 07 May 2026 11:31:21 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1z9u_VRPXAMN0UpJCkfM6Gf4nEjp0VpD7" length="2886528" type="audio/mpeg" />
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1z9u_VRPXAMN0UpJCkfM6Gf4nEjp0VpD7</guid>
+      <itunes:author>Genghis</itunes:author>
+      <itunes:image href="https://raw.githubusercontent.com/ccarfi/catchup-queue-podcast/main/cover.jpg" />
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Rachael Que Vargas - The Math That Makes Sense for Artists - Part 7 of 8 - 2026-05-06-111503</title>
+      <description>Added from catchupQueue on 2026-05-06 (Part 7 of 8)</description>
+      <pubDate>Thu, 07 May 2026 11:31:21 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1jbXKEI7jmeEtu17gNgQeFpD0FGYKRUGv" length="3672960" type="audio/mpeg" />
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1jbXKEI7jmeEtu17gNgQeFpD0FGYKRUGv</guid>
+      <itunes:author>Genghis</itunes:author>
+      <itunes:image href="https://raw.githubusercontent.com/ccarfi/catchup-queue-podcast/main/cover.jpg" />
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Rachael Que Vargas - The Math That Makes Sense for Artists - Part 8 of 8 - 2026-05-06-111534</title>
+      <description>Added from catchupQueue on 2026-05-06 (Part 8 of 8)</description>
+      <pubDate>Thu, 07 May 2026 11:31:21 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1ErsZqBgcxbwesQPLBkiRE9qghQ9Y22uG" length="2522496" type="audio/mpeg" />
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1ErsZqBgcxbwesQPLBkiRE9qghQ9Y22uG</guid>
+      <itunes:author>Genghis</itunes:author>
+      <itunes:image href="https://raw.githubusercontent.com/ccarfi/catchup-queue-podcast/main/cover.jpg" />
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>David Moore - Who Do You Love? - Part 1 of 1 - 2026-05-06-153814</title>
+      <description>Added from catchupQueue on 2026-05-06 (Part 1 of 1)</description>
+      <pubDate>Thu, 07 May 2026 11:31:21 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1oUlmK6yOrixMIYHjF5PNmxy6zlbh1ciJ" length="2736768" type="audio/mpeg" />
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1oUlmK6yOrixMIYHjF5PNmxy6zlbh1ciJ</guid>
+      <itunes:author>Genghis</itunes:author>
+      <itunes:image href="https://raw.githubusercontent.com/ccarfi/catchup-queue-podcast/main/cover.jpg" />
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Milk Road AI - 🥛 The scariest Amazon launch yet 😳 - Part 1 of 4 - 2026-05-06-153835</title>
+      <description>Added from catchupQueue on 2026-05-06 (Part 1 of 4)</description>
+      <pubDate>Thu, 07 May 2026 11:31:21 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1a9Q7d7F-ZJUmzsp2JKKz-kJnIfcfn3_P" length="3565056" type="audio/mpeg" />
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1a9Q7d7F-ZJUmzsp2JKKz-kJnIfcfn3_P</guid>
+      <itunes:author>Genghis</itunes:author>
+      <itunes:image href="https://raw.githubusercontent.com/ccarfi/catchup-queue-podcast/main/cover.jpg" />
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Milk Road AI - 🥛 The scariest Amazon launch yet 😳 - Part 2 of 4 - 2026-05-06-153919</title>
+      <description>Added from catchupQueue on 2026-05-06 (Part 2 of 4)</description>
+      <pubDate>Thu, 07 May 2026 11:31:21 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1KK2rIVi3xLC54TetllLKcC14TyBc2Tyt" length="3393792" type="audio/mpeg" />
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1KK2rIVi3xLC54TetllLKcC14TyBc2Tyt</guid>
+      <itunes:author>Genghis</itunes:author>
+      <itunes:image href="https://raw.githubusercontent.com/ccarfi/catchup-queue-podcast/main/cover.jpg" />
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Milk Road AI - 🥛 The scariest Amazon launch yet 😳 - Part 3 of 4 - 2026-05-06-153955</title>
+      <description>Added from catchupQueue on 2026-05-06 (Part 3 of 4)</description>
+      <pubDate>Thu, 07 May 2026 11:31:21 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1fXX9iIl7vYUoJLhmzHcwRDtYAxxKfagI" length="3210624" type="audio/mpeg" />
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1fXX9iIl7vYUoJLhmzHcwRDtYAxxKfagI</guid>
+      <itunes:author>Genghis</itunes:author>
+      <itunes:image href="https://raw.githubusercontent.com/ccarfi/catchup-queue-podcast/main/cover.jpg" />
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Milk Road AI - 🥛 The scariest Amazon launch yet 😳 - Part 4 of 4 - 2026-05-06-154016</title>
+      <description>Added from catchupQueue on 2026-05-06 (Part 4 of 4)</description>
+      <pubDate>Thu, 07 May 2026 11:31:21 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1lhYNkLHZNnBt0Ks0IHL4ygn9ivMBwvpo" length="1145088" type="audio/mpeg" />
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1lhYNkLHZNnBt0Ks0IHL4ygn9ivMBwvpo</guid>
+      <itunes:author>Genghis</itunes:author>
+      <itunes:image href="https://raw.githubusercontent.com/ccarfi/catchup-queue-podcast/main/cover.jpg" />
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Rob Walker Art of Noticing - Triple Play - Part 1 of 1 - 2026-05-06-154106</title>
+      <description>Added from catchupQueue on 2026-05-06 (Part 1 of 1)</description>
+      <pubDate>Thu, 07 May 2026 11:31:21 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1rxoXwiNJ02bhZX2A8V7pDdmwzugqAdkm" length="3373056" type="audio/mpeg" />
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1rxoXwiNJ02bhZX2A8V7pDdmwzugqAdkm</guid>
       <itunes:author>Genghis</itunes:author>
       <itunes:image href="https://raw.githubusercontent.com/ccarfi/catchup-queue-podcast/main/cover.jpg" />
       <itunes:explicit>false</itunes:explicit>
