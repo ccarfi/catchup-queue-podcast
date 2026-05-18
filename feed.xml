@@ -16,101 +16,11 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
     </image>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Personal Journals" />
-    <lastBuildDate>Sun, 17 May 2026 11:30:27 GMT</lastBuildDate>
-    <item>
-      <title>Azeem Azhar, Exponential View - 📈⏳ The broken bargain of Moore’s Law - Part 1 of 2 - 2026-05-11-064234</title>
-      <description>Added from catchupQueue on 2026-05-11 (Part 1 of 2)</description>
-      <pubDate>Sun, 17 May 2026 11:30:27 GMT</pubDate>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1zyzEmYGdvtDIq0lHjwP3y5K34ikShbjr" length="4054656" type="audio/mpeg" />
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1zyzEmYGdvtDIq0lHjwP3y5K34ikShbjr</guid>
-      <itunes:author>Genghis</itunes:author>
-      <itunes:image href="https://raw.githubusercontent.com/ccarfi/catchup-queue-podcast/main/cover.jpg" />
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Azeem Azhar, Exponential View - 📈⏳ The broken bargain of Moore’s Law - Part 2 of 2 - 2026-05-11-064256</title>
-      <description>Added from catchupQueue on 2026-05-11 (Part 2 of 2)</description>
-      <pubDate>Sun, 17 May 2026 11:30:27 GMT</pubDate>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1zqPFsnIjFODFSgOjjL9do5EGRfp-Sf80" length="739968" type="audio/mpeg" />
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1zqPFsnIjFODFSgOjjL9do5EGRfp-Sf80</guid>
-      <itunes:author>Genghis</itunes:author>
-      <itunes:image href="https://raw.githubusercontent.com/ccarfi/catchup-queue-podcast/main/cover.jpg" />
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>The Inference Shift — Stratechery</title>
-      <description></description>
-      <pubDate>Sun, 17 May 2026 11:30:27 GMT</pubDate>
-      <enclosure url="https://stratechery.passport.online/assets/2026-5-11%20with%20chapters.mp3?access_token=5D1rkorbGYovuMdZdKEE73" length="0" type="audio/mpeg" />
-      <guid isPermaLink="false">https://stratechery.passport.online/assets/2026-5-11%20with%20chapters.mp3?access_token=5D1rkorbGYovuMdZdKEE73</guid>
-      <itunes:author>Genghis</itunes:author>
-      <itunes:image href="https://raw.githubusercontent.com/ccarfi/catchup-queue-podcast/main/cover.jpg" />
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Howard Rheingold - Some of the ways AI already goes rogue - Part 1 of 1 - 2026-05-11-125840</title>
-      <description>Added from catchupQueue on 2026-05-11 (Part 1 of 1)</description>
-      <pubDate>Sun, 17 May 2026 11:30:27 GMT</pubDate>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1n15L-72qPEE52c-7GYAd2tRKC6Jis-qH" length="1322496" type="audio/mpeg" />
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1n15L-72qPEE52c-7GYAd2tRKC6Jis-qH</guid>
-      <itunes:author>Genghis</itunes:author>
-      <itunes:image href="https://raw.githubusercontent.com/ccarfi/catchup-queue-podcast/main/cover.jpg" />
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Kevin Kelly - The Emergent Self Loop - Part 1 of 5 - 2026-05-11-125958</title>
-      <description>Added from catchupQueue on 2026-05-11 (Part 1 of 5)</description>
-      <pubDate>Sun, 17 May 2026 11:30:27 GMT</pubDate>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Y336_AvT8lP-AlzRD8oRvmQEttNh-_fO" length="3444864" type="audio/mpeg" />
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1Y336_AvT8lP-AlzRD8oRvmQEttNh-_fO</guid>
-      <itunes:author>Genghis</itunes:author>
-      <itunes:image href="https://raw.githubusercontent.com/ccarfi/catchup-queue-podcast/main/cover.jpg" />
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Kevin Kelly - The Emergent Self Loop - Part 2 of 5 - 2026-05-11-130040</title>
-      <description>Added from catchupQueue on 2026-05-11 (Part 2 of 5)</description>
-      <pubDate>Sun, 17 May 2026 11:30:27 GMT</pubDate>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1iu2CUOdByfTg0haL-ddWEvJlYxG-6QqC" length="3543168" type="audio/mpeg" />
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1iu2CUOdByfTg0haL-ddWEvJlYxG-6QqC</guid>
-      <itunes:author>Genghis</itunes:author>
-      <itunes:image href="https://raw.githubusercontent.com/ccarfi/catchup-queue-podcast/main/cover.jpg" />
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Kevin Kelly - The Emergent Self Loop - Part 3 of 5 - 2026-05-11-130118</title>
-      <description>Added from catchupQueue on 2026-05-11 (Part 3 of 5)</description>
-      <pubDate>Sun, 17 May 2026 11:30:27 GMT</pubDate>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1ftyyRaFlTdkrtJUsO2ERDryn-6zAg67d" length="3529728" type="audio/mpeg" />
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1ftyyRaFlTdkrtJUsO2ERDryn-6zAg67d</guid>
-      <itunes:author>Genghis</itunes:author>
-      <itunes:image href="https://raw.githubusercontent.com/ccarfi/catchup-queue-podcast/main/cover.jpg" />
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Kevin Kelly - The Emergent Self Loop - Part 4 of 5 - 2026-05-11-130158</title>
-      <description>Added from catchupQueue on 2026-05-11 (Part 4 of 5)</description>
-      <pubDate>Sun, 17 May 2026 11:30:27 GMT</pubDate>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=12oKSz5LRQ3qdGhUcVPL9u9w6Dr2-b0pu" length="3677568" type="audio/mpeg" />
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=12oKSz5LRQ3qdGhUcVPL9u9w6Dr2-b0pu</guid>
-      <itunes:author>Genghis</itunes:author>
-      <itunes:image href="https://raw.githubusercontent.com/ccarfi/catchup-queue-podcast/main/cover.jpg" />
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Kevin Kelly - The Emergent Self Loop - Part 5 of 5 - 2026-05-11-130222</title>
-      <description>Added from catchupQueue on 2026-05-11 (Part 5 of 5)</description>
-      <pubDate>Sun, 17 May 2026 11:30:27 GMT</pubDate>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1RaZjnle3rY9jGEF_vf5Gx23CBZAdaQ-4" length="1961856" type="audio/mpeg" />
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1RaZjnle3rY9jGEF_vf5Gx23CBZAdaQ-4</guid>
-      <itunes:author>Genghis</itunes:author>
-      <itunes:image href="https://raw.githubusercontent.com/ccarfi/catchup-queue-podcast/main/cover.jpg" />
-      <itunes:explicit>false</itunes:explicit>
-    </item>
+    <lastBuildDate>Mon, 18 May 2026 11:32:00 GMT</lastBuildDate>
     <item>
       <title>Veggielution - Earth Month-- Notes and News from the Farm - Part 1 of 1 - 2026-05-12-084948</title>
       <description>Added from catchupQueue on 2026-05-12 (Part 1 of 1)</description>
-      <pubDate>Sun, 17 May 2026 11:30:27 GMT</pubDate>
+      <pubDate>Mon, 18 May 2026 11:32:00 GMT</pubDate>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1w9vSIkhL-mhC7r4DgV5OwshoWkzcdH6a" length="3315456" type="audio/mpeg" />
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1w9vSIkhL-mhC7r4DgV5OwshoWkzcdH6a</guid>
       <itunes:author>Genghis</itunes:author>
@@ -120,7 +30,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <item>
       <title>REMORANDOM - Whole Earth Catalog - Part 1 of 1 - 2026-05-12-143500</title>
       <description>Added from catchupQueue on 2026-05-12 (Part 1 of 1)</description>
-      <pubDate>Sun, 17 May 2026 11:30:27 GMT</pubDate>
+      <pubDate>Mon, 18 May 2026 11:32:00 GMT</pubDate>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1gYOTQhsTQnYDvVpSIOESFDhH6Nl05JR3" length="3318528" type="audio/mpeg" />
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1gYOTQhsTQnYDvVpSIOESFDhH6Nl05JR3</guid>
       <itunes:author>Genghis</itunes:author>
@@ -130,7 +40,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <item>
       <title>Not Boring - Riding the Leopard - Part 1 of 5 - 2026-05-13-061200</title>
       <description>Added from catchupQueue on 2026-05-13 (Part 1 of 5)</description>
-      <pubDate>Sun, 17 May 2026 11:30:27 GMT</pubDate>
+      <pubDate>Mon, 18 May 2026 11:32:00 GMT</pubDate>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1MCOmHylH-76RIuTqaoIER5PctA-9uxfi" length="3637632" type="audio/mpeg" />
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1MCOmHylH-76RIuTqaoIER5PctA-9uxfi</guid>
       <itunes:author>Genghis</itunes:author>
@@ -140,7 +50,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <item>
       <title>Business Analytics Review - Naïve Bayes Classifiers Explained - Part 1 of 2 - 2026-05-13-094130</title>
       <description>Added from catchupQueue on 2026-05-13 (Part 1 of 2)</description>
-      <pubDate>Sun, 17 May 2026 11:30:27 GMT</pubDate>
+      <pubDate>Mon, 18 May 2026 11:32:00 GMT</pubDate>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1MtUJwTDKj6FQsXdFyviY8egKsQBuW5Qh" length="3856896" type="audio/mpeg" />
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1MtUJwTDKj6FQsXdFyviY8egKsQBuW5Qh</guid>
       <itunes:author>Genghis</itunes:author>
@@ -150,7 +60,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <item>
       <title>Business Analytics Review - Naïve Bayes Classifiers Explained - Part 2 of 2 - 2026-05-13-094156</title>
       <description>Added from catchupQueue on 2026-05-13 (Part 2 of 2)</description>
-      <pubDate>Sun, 17 May 2026 11:30:27 GMT</pubDate>
+      <pubDate>Mon, 18 May 2026 11:32:00 GMT</pubDate>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1DUFP1IN47-0On6U6TA-ruxJpx0iJdZ2B" length="1824768" type="audio/mpeg" />
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1DUFP1IN47-0On6U6TA-ruxJpx0iJdZ2B</guid>
       <itunes:author>Genghis</itunes:author>
@@ -160,7 +70,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <item>
       <title>Meditations in an Emergency - We Are Crashing Into the Future (Or It Is Crashing Into Us) - Part 1 of 5 - 2026-05-13-120255</title>
       <description>Added from catchupQueue on 2026-05-13 (Part 1 of 5)</description>
-      <pubDate>Sun, 17 May 2026 11:30:27 GMT</pubDate>
+      <pubDate>Mon, 18 May 2026 11:32:00 GMT</pubDate>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1zH47CJFwQFVAkuPuDbAUe7rZDRI2KgHJ" length="3423360" type="audio/mpeg" />
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1zH47CJFwQFVAkuPuDbAUe7rZDRI2KgHJ</guid>
       <itunes:author>Genghis</itunes:author>
@@ -170,7 +80,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <item>
       <title>Meditations in an Emergency - We Are Crashing Into the Future (Or It Is Crashing Into Us) - Part 2 of 5 - 2026-05-13-120341</title>
       <description>Added from catchupQueue on 2026-05-13 (Part 2 of 5)</description>
-      <pubDate>Sun, 17 May 2026 11:30:27 GMT</pubDate>
+      <pubDate>Mon, 18 May 2026 11:32:00 GMT</pubDate>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1rPDZ_3fCOynPTD9i4bz2niarlyvuAOT6" length="3545856" type="audio/mpeg" />
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1rPDZ_3fCOynPTD9i4bz2niarlyvuAOT6</guid>
       <itunes:author>Genghis</itunes:author>
@@ -180,7 +90,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <item>
       <title>Meditations in an Emergency - We Are Crashing Into the Future (Or It Is Crashing Into Us) - Part 3 of 5 - 2026-05-13-120427</title>
       <description>Added from catchupQueue on 2026-05-13 (Part 3 of 5)</description>
-      <pubDate>Sun, 17 May 2026 11:30:27 GMT</pubDate>
+      <pubDate>Mon, 18 May 2026 11:32:00 GMT</pubDate>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1EvlHpwXmxOU_078BzNYam3XbumQHME7z" length="3720960" type="audio/mpeg" />
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1EvlHpwXmxOU_078BzNYam3XbumQHME7z</guid>
       <itunes:author>Genghis</itunes:author>
@@ -190,7 +100,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <item>
       <title>Meditations in an Emergency - We Are Crashing Into the Future (Or It Is Crashing Into Us) - Part 4 of 5 - 2026-05-13-120508</title>
       <description>Added from catchupQueue on 2026-05-13 (Part 4 of 5)</description>
-      <pubDate>Sun, 17 May 2026 11:30:27 GMT</pubDate>
+      <pubDate>Mon, 18 May 2026 11:32:00 GMT</pubDate>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1tH45rNzLYfc5iciMRwP7Rrw1n1XLSRjg" length="3682560" type="audio/mpeg" />
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1tH45rNzLYfc5iciMRwP7Rrw1n1XLSRjg</guid>
       <itunes:author>Genghis</itunes:author>
@@ -200,7 +110,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <item>
       <title>Meditations in an Emergency - We Are Crashing Into the Future (Or It Is Crashing Into Us) - Part 5 of 5 - 2026-05-13-120552</title>
       <description>Added from catchupQueue on 2026-05-13 (Part 5 of 5)</description>
-      <pubDate>Sun, 17 May 2026 11:30:27 GMT</pubDate>
+      <pubDate>Mon, 18 May 2026 11:32:00 GMT</pubDate>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1zW6P2sUz2cktAZCONZp6MG5RlfZoetzc" length="3588096" type="audio/mpeg" />
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1zW6P2sUz2cktAZCONZp6MG5RlfZoetzc</guid>
       <itunes:author>Genghis</itunes:author>
@@ -210,7 +120,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <item>
       <title>Brian Morrissey - Publishing in an AI era - Part 1 of 2 - 2026-05-15-075322</title>
       <description>Added from catchupQueue on 2026-05-15 (Part 1 of 2)</description>
-      <pubDate>Sun, 17 May 2026 11:30:27 GMT</pubDate>
+      <pubDate>Mon, 18 May 2026 11:32:00 GMT</pubDate>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1KxizQQ04hnStn8JtwfMYsBmuNtS3Z8WV" length="3639168" type="audio/mpeg" />
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1KxizQQ04hnStn8JtwfMYsBmuNtS3Z8WV</guid>
       <itunes:author>Genghis</itunes:author>
@@ -220,9 +130,99 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <item>
       <title>Brian Morrissey - Publishing in an AI era - Part 2 of 2 - 2026-05-15-075351</title>
       <description>Added from catchupQueue on 2026-05-15 (Part 2 of 2)</description>
-      <pubDate>Sun, 17 May 2026 11:30:27 GMT</pubDate>
+      <pubDate>Mon, 18 May 2026 11:32:00 GMT</pubDate>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Rfu1WrDjNFymjGl1n0R8crb_Sn2d3wIS" length="1195392" type="audio/mpeg" />
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1Rfu1WrDjNFymjGl1n0R8crb_Sn2d3wIS</guid>
+      <itunes:author>Genghis</itunes:author>
+      <itunes:image href="https://raw.githubusercontent.com/ccarfi/catchup-queue-podcast/main/cover.jpg" />
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Christopher Carfi - Higher Ed - David Brooks - Part 1 of 9 - 2026-05-17-162426</title>
+      <description>Added from catchupQueue on 2026-05-17 (Part 1 of 9)</description>
+      <pubDate>Mon, 18 May 2026 11:32:00 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1aKnyDpou87eM_HpJG_VAvRDy88-MeMnS" length="3720192" type="audio/mpeg" />
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1aKnyDpou87eM_HpJG_VAvRDy88-MeMnS</guid>
+      <itunes:author>Genghis</itunes:author>
+      <itunes:image href="https://raw.githubusercontent.com/ccarfi/catchup-queue-podcast/main/cover.jpg" />
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Christopher Carfi - Higher Ed - David Brooks - Part 2 of 9 - 2026-05-17-162507</title>
+      <description>Added from catchupQueue on 2026-05-17 (Part 2 of 9)</description>
+      <pubDate>Mon, 18 May 2026 11:32:00 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Y-I9SV8hknQci5tEDmUi0NdIwuFYWofw" length="3608832" type="audio/mpeg" />
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1Y-I9SV8hknQci5tEDmUi0NdIwuFYWofw</guid>
+      <itunes:author>Genghis</itunes:author>
+      <itunes:image href="https://raw.githubusercontent.com/ccarfi/catchup-queue-podcast/main/cover.jpg" />
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Christopher Carfi - Higher Ed - David Brooks - Part 3 of 9 - 2026-05-17-162557</title>
+      <description>Added from catchupQueue on 2026-05-17 (Part 3 of 9)</description>
+      <pubDate>Mon, 18 May 2026 11:32:00 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1xzYJQskP5D0Fklt1QNQDRlTsht5rAgAh" length="3359232" type="audio/mpeg" />
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1xzYJQskP5D0Fklt1QNQDRlTsht5rAgAh</guid>
+      <itunes:author>Genghis</itunes:author>
+      <itunes:image href="https://raw.githubusercontent.com/ccarfi/catchup-queue-podcast/main/cover.jpg" />
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Christopher Carfi - Higher Ed - David Brooks - Part 4 of 9 - 2026-05-17-162642</title>
+      <description>Added from catchupQueue on 2026-05-17 (Part 4 of 9)</description>
+      <pubDate>Mon, 18 May 2026 11:32:00 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1KC4xbbzUnMcIWJ8aY4AtRiLFhPZ63w0g" length="3788928" type="audio/mpeg" />
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1KC4xbbzUnMcIWJ8aY4AtRiLFhPZ63w0g</guid>
+      <itunes:author>Genghis</itunes:author>
+      <itunes:image href="https://raw.githubusercontent.com/ccarfi/catchup-queue-podcast/main/cover.jpg" />
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Christopher Carfi - Higher Ed - David Brooks - Part 5 of 9 - 2026-05-17-162720</title>
+      <description>Added from catchupQueue on 2026-05-17 (Part 5 of 9)</description>
+      <pubDate>Mon, 18 May 2026 11:32:00 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1suduNRxNCtDegEE381roerv_f9bR5NgM" length="3693696" type="audio/mpeg" />
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1suduNRxNCtDegEE381roerv_f9bR5NgM</guid>
+      <itunes:author>Genghis</itunes:author>
+      <itunes:image href="https://raw.githubusercontent.com/ccarfi/catchup-queue-podcast/main/cover.jpg" />
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Christopher Carfi - Higher Ed - David Brooks - Part 6 of 9 - 2026-05-17-162758</title>
+      <description>Added from catchupQueue on 2026-05-17 (Part 6 of 9)</description>
+      <pubDate>Mon, 18 May 2026 11:32:00 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1O2uTAM753S6kcmCe1memso-wJGejTAHg" length="3706368" type="audio/mpeg" />
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1O2uTAM753S6kcmCe1memso-wJGejTAHg</guid>
+      <itunes:author>Genghis</itunes:author>
+      <itunes:image href="https://raw.githubusercontent.com/ccarfi/catchup-queue-podcast/main/cover.jpg" />
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Christopher Carfi - Higher Ed - David Brooks - Part 7 of 9 - 2026-05-17-162847</title>
+      <description>Added from catchupQueue on 2026-05-17 (Part 7 of 9)</description>
+      <pubDate>Mon, 18 May 2026 11:32:00 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1oXKGP6D0ujYDhAz6yr9w_jnYcv2LEsX7" length="3423360" type="audio/mpeg" />
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1oXKGP6D0ujYDhAz6yr9w_jnYcv2LEsX7</guid>
+      <itunes:author>Genghis</itunes:author>
+      <itunes:image href="https://raw.githubusercontent.com/ccarfi/catchup-queue-podcast/main/cover.jpg" />
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Christopher Carfi - Higher Ed - David Brooks - Part 8 of 9 - 2026-05-17-162928</title>
+      <description>Added from catchupQueue on 2026-05-17 (Part 8 of 9)</description>
+      <pubDate>Mon, 18 May 2026 11:32:00 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1omLpVMwsei6hep5nyJDpeHLO94EK4n7G" length="3699456" type="audio/mpeg" />
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1omLpVMwsei6hep5nyJDpeHLO94EK4n7G</guid>
+      <itunes:author>Genghis</itunes:author>
+      <itunes:image href="https://raw.githubusercontent.com/ccarfi/catchup-queue-podcast/main/cover.jpg" />
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Christopher Carfi - Higher Ed - David Brooks - Part 9 of 9 - 2026-05-17-162947</title>
+      <description>Added from catchupQueue on 2026-05-17 (Part 9 of 9)</description>
+      <pubDate>Mon, 18 May 2026 11:32:00 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=15uAXyZ5MfWVy-LM-ZuBqDrlsywtn1gdM" length="1265664" type="audio/mpeg" />
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=15uAXyZ5MfWVy-LM-ZuBqDrlsywtn1gdM</guid>
       <itunes:author>Genghis</itunes:author>
       <itunes:image href="https://raw.githubusercontent.com/ccarfi/catchup-queue-podcast/main/cover.jpg" />
       <itunes:explicit>false</itunes:explicit>
