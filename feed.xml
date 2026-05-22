@@ -16,31 +16,11 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
     </image>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Personal Journals" />
-    <lastBuildDate>Thu, 21 May 2026 11:30:41 GMT</lastBuildDate>
-    <item>
-      <title>Brian Morrissey - Publishing in an AI era - Part 1 of 2 - 2026-05-15-075322</title>
-      <description>Added from catchupQueue on 2026-05-15 (Part 1 of 2)</description>
-      <pubDate>Thu, 21 May 2026 11:30:41 GMT</pubDate>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1KxizQQ04hnStn8JtwfMYsBmuNtS3Z8WV" length="3639168" type="audio/mpeg" />
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1KxizQQ04hnStn8JtwfMYsBmuNtS3Z8WV</guid>
-      <itunes:author>Genghis</itunes:author>
-      <itunes:image href="https://raw.githubusercontent.com/ccarfi/catchup-queue-podcast/main/cover.jpg" />
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Brian Morrissey - Publishing in an AI era - Part 2 of 2 - 2026-05-15-075351</title>
-      <description>Added from catchupQueue on 2026-05-15 (Part 2 of 2)</description>
-      <pubDate>Thu, 21 May 2026 11:30:41 GMT</pubDate>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Rfu1WrDjNFymjGl1n0R8crb_Sn2d3wIS" length="1195392" type="audio/mpeg" />
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1Rfu1WrDjNFymjGl1n0R8crb_Sn2d3wIS</guid>
-      <itunes:author>Genghis</itunes:author>
-      <itunes:image href="https://raw.githubusercontent.com/ccarfi/catchup-queue-podcast/main/cover.jpg" />
-      <itunes:explicit>false</itunes:explicit>
-    </item>
+    <lastBuildDate>Fri, 22 May 2026 11:30:20 GMT</lastBuildDate>
     <item>
       <title>Christopher Carfi - Higher Ed - David Brooks - Part 1 of 9 - 2026-05-17-162426</title>
       <description>Added from catchupQueue on 2026-05-17 (Part 1 of 9)</description>
-      <pubDate>Thu, 21 May 2026 11:30:41 GMT</pubDate>
+      <pubDate>Fri, 22 May 2026 11:30:20 GMT</pubDate>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1aKnyDpou87eM_HpJG_VAvRDy88-MeMnS" length="3720192" type="audio/mpeg" />
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1aKnyDpou87eM_HpJG_VAvRDy88-MeMnS</guid>
       <itunes:author>Genghis</itunes:author>
@@ -50,7 +30,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <item>
       <title>Christopher Carfi - Higher Ed - David Brooks - Part 2 of 9 - 2026-05-17-162507</title>
       <description>Added from catchupQueue on 2026-05-17 (Part 2 of 9)</description>
-      <pubDate>Thu, 21 May 2026 11:30:41 GMT</pubDate>
+      <pubDate>Fri, 22 May 2026 11:30:20 GMT</pubDate>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Y-I9SV8hknQci5tEDmUi0NdIwuFYWofw" length="3608832" type="audio/mpeg" />
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1Y-I9SV8hknQci5tEDmUi0NdIwuFYWofw</guid>
       <itunes:author>Genghis</itunes:author>
@@ -60,7 +40,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <item>
       <title>Christopher Carfi - Higher Ed - David Brooks - Part 3 of 9 - 2026-05-17-162557</title>
       <description>Added from catchupQueue on 2026-05-17 (Part 3 of 9)</description>
-      <pubDate>Thu, 21 May 2026 11:30:41 GMT</pubDate>
+      <pubDate>Fri, 22 May 2026 11:30:20 GMT</pubDate>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1xzYJQskP5D0Fklt1QNQDRlTsht5rAgAh" length="3359232" type="audio/mpeg" />
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1xzYJQskP5D0Fklt1QNQDRlTsht5rAgAh</guid>
       <itunes:author>Genghis</itunes:author>
@@ -70,7 +50,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <item>
       <title>Christopher Carfi - Higher Ed - David Brooks - Part 4 of 9 - 2026-05-17-162642</title>
       <description>Added from catchupQueue on 2026-05-17 (Part 4 of 9)</description>
-      <pubDate>Thu, 21 May 2026 11:30:41 GMT</pubDate>
+      <pubDate>Fri, 22 May 2026 11:30:20 GMT</pubDate>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1KC4xbbzUnMcIWJ8aY4AtRiLFhPZ63w0g" length="3788928" type="audio/mpeg" />
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1KC4xbbzUnMcIWJ8aY4AtRiLFhPZ63w0g</guid>
       <itunes:author>Genghis</itunes:author>
@@ -80,7 +60,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <item>
       <title>Christopher Carfi - Higher Ed - David Brooks - Part 5 of 9 - 2026-05-17-162720</title>
       <description>Added from catchupQueue on 2026-05-17 (Part 5 of 9)</description>
-      <pubDate>Thu, 21 May 2026 11:30:41 GMT</pubDate>
+      <pubDate>Fri, 22 May 2026 11:30:20 GMT</pubDate>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1suduNRxNCtDegEE381roerv_f9bR5NgM" length="3693696" type="audio/mpeg" />
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1suduNRxNCtDegEE381roerv_f9bR5NgM</guid>
       <itunes:author>Genghis</itunes:author>
@@ -90,7 +70,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <item>
       <title>Christopher Carfi - Higher Ed - David Brooks - Part 6 of 9 - 2026-05-17-162758</title>
       <description>Added from catchupQueue on 2026-05-17 (Part 6 of 9)</description>
-      <pubDate>Thu, 21 May 2026 11:30:41 GMT</pubDate>
+      <pubDate>Fri, 22 May 2026 11:30:20 GMT</pubDate>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1O2uTAM753S6kcmCe1memso-wJGejTAHg" length="3706368" type="audio/mpeg" />
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1O2uTAM753S6kcmCe1memso-wJGejTAHg</guid>
       <itunes:author>Genghis</itunes:author>
@@ -100,7 +80,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <item>
       <title>Christopher Carfi - Higher Ed - David Brooks - Part 7 of 9 - 2026-05-17-162847</title>
       <description>Added from catchupQueue on 2026-05-17 (Part 7 of 9)</description>
-      <pubDate>Thu, 21 May 2026 11:30:41 GMT</pubDate>
+      <pubDate>Fri, 22 May 2026 11:30:20 GMT</pubDate>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1oXKGP6D0ujYDhAz6yr9w_jnYcv2LEsX7" length="3423360" type="audio/mpeg" />
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1oXKGP6D0ujYDhAz6yr9w_jnYcv2LEsX7</guid>
       <itunes:author>Genghis</itunes:author>
@@ -110,7 +90,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <item>
       <title>Christopher Carfi - Higher Ed - David Brooks - Part 8 of 9 - 2026-05-17-162928</title>
       <description>Added from catchupQueue on 2026-05-17 (Part 8 of 9)</description>
-      <pubDate>Thu, 21 May 2026 11:30:41 GMT</pubDate>
+      <pubDate>Fri, 22 May 2026 11:30:20 GMT</pubDate>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1omLpVMwsei6hep5nyJDpeHLO94EK4n7G" length="3699456" type="audio/mpeg" />
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1omLpVMwsei6hep5nyJDpeHLO94EK4n7G</guid>
       <itunes:author>Genghis</itunes:author>
@@ -120,7 +100,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <item>
       <title>Christopher Carfi - Higher Ed - David Brooks - Part 9 of 9 - 2026-05-17-162947</title>
       <description>Added from catchupQueue on 2026-05-17 (Part 9 of 9)</description>
-      <pubDate>Thu, 21 May 2026 11:30:41 GMT</pubDate>
+      <pubDate>Fri, 22 May 2026 11:30:20 GMT</pubDate>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=15uAXyZ5MfWVy-LM-ZuBqDrlsywtn1gdM" length="1265664" type="audio/mpeg" />
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=15uAXyZ5MfWVy-LM-ZuBqDrlsywtn1gdM</guid>
       <itunes:author>Genghis</itunes:author>
@@ -130,7 +110,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <item>
       <title>Milk Road AI - 🥛 The AI buildout trade 👀 - Part 1 of 5 - 2026-05-20-082437</title>
       <description>Added from catchupQueue on 2026-05-20 (Part 1 of 5)</description>
-      <pubDate>Thu, 21 May 2026 11:30:41 GMT</pubDate>
+      <pubDate>Fri, 22 May 2026 11:30:20 GMT</pubDate>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1mFpHrQQc1VHk1N5ZAwFB8oeFbubRW0Cy" length="3719424" type="audio/mpeg" />
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1mFpHrQQc1VHk1N5ZAwFB8oeFbubRW0Cy</guid>
       <itunes:author>Genghis</itunes:author>
@@ -140,7 +120,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <item>
       <title>Milk Road AI - 🥛 The AI buildout trade 👀 - Part 2 of 5 - 2026-05-20-082519</title>
       <description>Added from catchupQueue on 2026-05-20 (Part 2 of 5)</description>
-      <pubDate>Thu, 21 May 2026 11:30:41 GMT</pubDate>
+      <pubDate>Fri, 22 May 2026 11:30:20 GMT</pubDate>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1-C5S_wtQf3X7e-aiewisdHlghocwYi7y" length="3815424" type="audio/mpeg" />
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1-C5S_wtQf3X7e-aiewisdHlghocwYi7y</guid>
       <itunes:author>Genghis</itunes:author>
@@ -150,7 +130,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <item>
       <title>Milk Road AI - 🥛 The AI buildout trade 👀 - Part 3 of 5 - 2026-05-20-082628</title>
       <description>Added from catchupQueue on 2026-05-20 (Part 3 of 5)</description>
-      <pubDate>Thu, 21 May 2026 11:30:41 GMT</pubDate>
+      <pubDate>Fri, 22 May 2026 11:30:20 GMT</pubDate>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1ogGx9uWZjKNVWI1rD5hurthpv9cBxGpX" length="3734400" type="audio/mpeg" />
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1ogGx9uWZjKNVWI1rD5hurthpv9cBxGpX</guid>
       <itunes:author>Genghis</itunes:author>
@@ -160,7 +140,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <item>
       <title>Milk Road AI - 🥛 The AI buildout trade 👀 - Part 4 of 5 - 2026-05-20-082749</title>
       <description>Added from catchupQueue on 2026-05-20 (Part 4 of 5)</description>
-      <pubDate>Thu, 21 May 2026 11:30:41 GMT</pubDate>
+      <pubDate>Fri, 22 May 2026 11:30:20 GMT</pubDate>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1KFQgQq8mwN5kCz2AGiqhCdOVx50Z5Qdr" length="4093056" type="audio/mpeg" />
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1KFQgQq8mwN5kCz2AGiqhCdOVx50Z5Qdr</guid>
       <itunes:author>Genghis</itunes:author>
@@ -170,7 +150,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <item>
       <title>Milk Road AI - 🥛 The AI buildout trade 👀 - Part 5 of 5 - 2026-05-20-082817</title>
       <description>Added from catchupQueue on 2026-05-20 (Part 5 of 5)</description>
-      <pubDate>Thu, 21 May 2026 11:30:41 GMT</pubDate>
+      <pubDate>Fri, 22 May 2026 11:30:20 GMT</pubDate>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1c3pJIuuzfDxmjWV0OBaI2H5ap0dcava_" length="2388096" type="audio/mpeg" />
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1c3pJIuuzfDxmjWV0OBaI2H5ap0dcava_</guid>
       <itunes:author>Genghis</itunes:author>
@@ -180,7 +160,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <item>
       <title>Howard Rheingold - The birth of spam - Part 1 of 1 - 2026-05-20-110144</title>
       <description>Added from catchupQueue on 2026-05-20 (Part 1 of 1)</description>
-      <pubDate>Thu, 21 May 2026 11:30:41 GMT</pubDate>
+      <pubDate>Fri, 22 May 2026 11:30:20 GMT</pubDate>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=19T_f8tbv89N8SF67Bd21JxvvQm6wZVVe" length="2552064" type="audio/mpeg" />
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=19T_f8tbv89N8SF67Bd21JxvvQm6wZVVe</guid>
       <itunes:author>Genghis</itunes:author>
