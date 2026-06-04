@@ -16,56 +16,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
     </image>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Personal Journals" />
-    <lastBuildDate>Wed, 03 Jun 2026 11:31:03 GMT</lastBuildDate>
-    <item>
-      <title>Howard Rheingold - Pedagogy of Thinking - Part 1 of 1 - 2026-05-28-102045</title>
-      <description>Added from catchupQueue on 2026-05-28 (Part 1 of 1)</description>
-      <pubDate>Wed, 03 Jun 2026 11:31:03 GMT</pubDate>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1ruNJK5XIabU_Yr9o8utqIPbR7k3kPWTW" length="3223296" type="audio/mpeg" />
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1ruNJK5XIabU_Yr9o8utqIPbR7k3kPWTW</guid>
-      <itunes:author>Genghis</itunes:author>
-      <itunes:image href="https://raw.githubusercontent.com/ccarfi/catchup-queue-podcast/main/cover.jpg" />
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Berkeley Buddhist Priory - Newsletter April-June 2026 - Part 1 of 4 - 2026-05-28-113858</title>
-      <description>Added from catchupQueue on 2026-05-28 (Part 1 of 4)</description>
-      <pubDate>Wed, 03 Jun 2026 11:31:03 GMT</pubDate>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=195ADEb1fxNGAbCLyCRWNJGo5HROgqaAa" length="3742464" type="audio/mpeg" />
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=195ADEb1fxNGAbCLyCRWNJGo5HROgqaAa</guid>
-      <itunes:author>Genghis</itunes:author>
-      <itunes:image href="https://raw.githubusercontent.com/ccarfi/catchup-queue-podcast/main/cover.jpg" />
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Berkeley Buddhist Priory - Newsletter April-June 2026 - Part 2 of 4 - 2026-05-28-113942</title>
-      <description>Added from catchupQueue on 2026-05-28 (Part 2 of 4)</description>
-      <pubDate>Wed, 03 Jun 2026 11:31:03 GMT</pubDate>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1vW2UpR3q1ZMSrM341sX4ootSHY4zXL_W" length="3437568" type="audio/mpeg" />
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1vW2UpR3q1ZMSrM341sX4ootSHY4zXL_W</guid>
-      <itunes:author>Genghis</itunes:author>
-      <itunes:image href="https://raw.githubusercontent.com/ccarfi/catchup-queue-podcast/main/cover.jpg" />
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Berkeley Buddhist Priory - Newsletter April-June 2026 - Part 3 of 4 - 2026-05-28-114037</title>
-      <description>Added from catchupQueue on 2026-05-28 (Part 3 of 4)</description>
-      <pubDate>Wed, 03 Jun 2026 11:31:03 GMT</pubDate>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1uN5ddYAh_YrpH_axuJIwPe-qn3AP1zMJ" length="3724800" type="audio/mpeg" />
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1uN5ddYAh_YrpH_axuJIwPe-qn3AP1zMJ</guid>
-      <itunes:author>Genghis</itunes:author>
-      <itunes:image href="https://raw.githubusercontent.com/ccarfi/catchup-queue-podcast/main/cover.jpg" />
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Berkeley Buddhist Priory - Newsletter April-June 2026 - Part 4 of 4 - 2026-05-28-114127</title>
-      <description>Added from catchupQueue on 2026-05-28 (Part 4 of 4)</description>
-      <pubDate>Wed, 03 Jun 2026 11:31:03 GMT</pubDate>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=10soZUzxXpV3b1ySi7mCCnFvNRk9gls2A" length="3318528" type="audio/mpeg" />
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=10soZUzxXpV3b1ySi7mCCnFvNRk9gls2A</guid>
-      <itunes:author>Genghis</itunes:author>
-      <itunes:image href="https://raw.githubusercontent.com/ccarfi/catchup-queue-podcast/main/cover.jpg" />
-      <itunes:explicit>false</itunes:explicit>
-    </item>
+    <lastBuildDate>Thu, 04 Jun 2026 11:30:58 GMT</lastBuildDate>
+
   </channel>
 </rss>
