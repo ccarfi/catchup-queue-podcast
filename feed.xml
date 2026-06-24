@@ -16,21 +16,11 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
     </image>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Personal Journals" />
-    <lastBuildDate>Tue, 23 Jun 2026 11:31:19 GMT</lastBuildDate>
-    <item>
-      <title>Howard Rheingold - A Syllabus For Thinking With AI - Part 1 of 1 - 2026-06-17-085052</title>
-      <description>Added from catchupQueue on 2026-06-17 (Part 1 of 1)</description>
-      <pubDate>Tue, 23 Jun 2026 11:31:19 GMT</pubDate>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1chs7ISI8WZkJrXrY6DgsL3gHAkkUUzwi" length="1049088" type="audio/mpeg" />
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1chs7ISI8WZkJrXrY6DgsL3gHAkkUUzwi</guid>
-      <itunes:author>Genghis</itunes:author>
-      <itunes:image href="https://raw.githubusercontent.com/ccarfi/catchup-queue-podcast/main/cover.jpg" />
-      <itunes:explicit>false</itunes:explicit>
-    </item>
+    <lastBuildDate>Wed, 24 Jun 2026 11:30:13 GMT</lastBuildDate>
     <item>
       <title>Burning Man Journal via Feedrabbit - Burning Man Journal: The Man at 40 - Part 1 of 2 - 2026-06-19-092305</title>
       <description>Added from catchupQueue on 2026-06-19 (Part 1 of 2)</description>
-      <pubDate>Tue, 23 Jun 2026 11:31:19 GMT</pubDate>
+      <pubDate>Wed, 24 Jun 2026 11:30:13 GMT</pubDate>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=13m63PNq45bRCxJj3x1dGiGoW2Rc3mArc" length="3785088" type="audio/mpeg" />
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=13m63PNq45bRCxJj3x1dGiGoW2Rc3mArc</guid>
       <itunes:author>Genghis</itunes:author>
@@ -40,7 +30,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <item>
       <title>Burning Man Journal via Feedrabbit - Burning Man Journal: The Man at 40 - Part 2 of 2 - 2026-06-19-092320</title>
       <description>Added from catchupQueue on 2026-06-19 (Part 2 of 2)</description>
-      <pubDate>Tue, 23 Jun 2026 11:31:19 GMT</pubDate>
+      <pubDate>Wed, 24 Jun 2026 11:30:13 GMT</pubDate>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1ZDeG5FDMSDyYdnP_BXwVSkQmJ6vHjo_y" length="772992" type="audio/mpeg" />
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1ZDeG5FDMSDyYdnP_BXwVSkQmJ6vHjo_y</guid>
       <itunes:author>Genghis</itunes:author>
@@ -50,7 +40,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <item>
       <title>a16z crypto - The new comms playbook: show, don’t promise - Part 1 of 3 - 2026-06-20-095120</title>
       <description>Added from catchupQueue on 2026-06-20 (Part 1 of 3)</description>
-      <pubDate>Tue, 23 Jun 2026 11:31:19 GMT</pubDate>
+      <pubDate>Wed, 24 Jun 2026 11:30:13 GMT</pubDate>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1H67Ud2ckZtfrHgiHwwWjLCgc6onxQKpr" length="3623424" type="audio/mpeg" />
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1H67Ud2ckZtfrHgiHwwWjLCgc6onxQKpr</guid>
       <itunes:author>Genghis</itunes:author>
@@ -60,7 +50,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <item>
       <title>a16z crypto - The new comms playbook: show, don’t promise - Part 2 of 3 - 2026-06-20-095200</title>
       <description>Added from catchupQueue on 2026-06-20 (Part 2 of 3)</description>
-      <pubDate>Tue, 23 Jun 2026 11:31:19 GMT</pubDate>
+      <pubDate>Wed, 24 Jun 2026 11:30:13 GMT</pubDate>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=19TgGXgET7MfPk38suKzAIOz-BpJ-qxBW" length="3682560" type="audio/mpeg" />
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=19TgGXgET7MfPk38suKzAIOz-BpJ-qxBW</guid>
       <itunes:author>Genghis</itunes:author>
@@ -70,7 +60,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <item>
       <title>a16z crypto - The new comms playbook: show, don’t promise - Part 3 of 3 - 2026-06-20-095209</title>
       <description>Added from catchupQueue on 2026-06-20 (Part 3 of 3)</description>
-      <pubDate>Tue, 23 Jun 2026 11:31:19 GMT</pubDate>
+      <pubDate>Wed, 24 Jun 2026 11:30:13 GMT</pubDate>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=14OG5HIZOX2TuxE-1TQoW_V5gdAwqcV9t" length="324096" type="audio/mpeg" />
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=14OG5HIZOX2TuxE-1TQoW_V5gdAwqcV9t</guid>
       <itunes:author>Genghis</itunes:author>
@@ -80,7 +70,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <item>
       <title>Kevin Kelly - Why Are LLMs Smart? - Part 1 of 3 - 2026-06-22-110719</title>
       <description>Added from catchupQueue on 2026-06-22 (Part 1 of 3)</description>
-      <pubDate>Tue, 23 Jun 2026 11:31:19 GMT</pubDate>
+      <pubDate>Wed, 24 Jun 2026 11:30:13 GMT</pubDate>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1gk7tP57c6ajkDy7p403MT12EmpA5TLf0" length="3708288" type="audio/mpeg" />
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1gk7tP57c6ajkDy7p403MT12EmpA5TLf0</guid>
       <itunes:author>Genghis</itunes:author>
@@ -90,7 +80,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <item>
       <title>Kevin Kelly - Why Are LLMs Smart? - Part 2 of 3 - 2026-06-22-110759</title>
       <description>Added from catchupQueue on 2026-06-22 (Part 2 of 3)</description>
-      <pubDate>Tue, 23 Jun 2026 11:31:19 GMT</pubDate>
+      <pubDate>Wed, 24 Jun 2026 11:30:13 GMT</pubDate>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Syh9qiCd0oANDGZACCAX-itlMi9g0KfT" length="3570432" type="audio/mpeg" />
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1Syh9qiCd0oANDGZACCAX-itlMi9g0KfT</guid>
       <itunes:author>Genghis</itunes:author>
@@ -100,9 +90,49 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
     <item>
       <title>Kevin Kelly - Why Are LLMs Smart? - Part 3 of 3 - 2026-06-22-110816</title>
       <description>Added from catchupQueue on 2026-06-22 (Part 3 of 3)</description>
-      <pubDate>Tue, 23 Jun 2026 11:31:19 GMT</pubDate>
+      <pubDate>Wed, 24 Jun 2026 11:30:13 GMT</pubDate>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Mji5fAhQixuHMJhJOi8a5JMT7MrKGX5K" length="933888" type="audio/mpeg" />
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1Mji5fAhQixuHMJhJOi8a5JMT7MrKGX5K</guid>
+      <itunes:author>Genghis</itunes:author>
+      <itunes:image href="https://raw.githubusercontent.com/ccarfi/catchup-queue-podcast/main/cover.jpg" />
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Big Desk Energy - you must adopt AI - Part 1 of 4 - 2026-06-23-064211</title>
+      <description>Added from catchupQueue on 2026-06-23 (Part 1 of 4)</description>
+      <pubDate>Wed, 24 Jun 2026 11:30:13 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1qhlxI1pgw_t9DubVtn0Fr5GDvFtSr9zq" length="3661056" type="audio/mpeg" />
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1qhlxI1pgw_t9DubVtn0Fr5GDvFtSr9zq</guid>
+      <itunes:author>Genghis</itunes:author>
+      <itunes:image href="https://raw.githubusercontent.com/ccarfi/catchup-queue-podcast/main/cover.jpg" />
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Big Desk Energy - you must adopt AI - Part 2 of 4 - 2026-06-23-064253</title>
+      <description>Added from catchupQueue on 2026-06-23 (Part 2 of 4)</description>
+      <pubDate>Wed, 24 Jun 2026 11:30:13 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1LtnLTJy0mhW27gOU8G8v-2-VTfYEMba3" length="3786624" type="audio/mpeg" />
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1LtnLTJy0mhW27gOU8G8v-2-VTfYEMba3</guid>
+      <itunes:author>Genghis</itunes:author>
+      <itunes:image href="https://raw.githubusercontent.com/ccarfi/catchup-queue-podcast/main/cover.jpg" />
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Big Desk Energy - you must adopt AI - Part 3 of 4 - 2026-06-23-064331</title>
+      <description>Added from catchupQueue on 2026-06-23 (Part 3 of 4)</description>
+      <pubDate>Wed, 24 Jun 2026 11:30:13 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1-2LVpCtopyotF70ELx8y6GV3zcFVydg6" length="3710592" type="audio/mpeg" />
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1-2LVpCtopyotF70ELx8y6GV3zcFVydg6</guid>
+      <itunes:author>Genghis</itunes:author>
+      <itunes:image href="https://raw.githubusercontent.com/ccarfi/catchup-queue-podcast/main/cover.jpg" />
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Big Desk Energy - you must adopt AI - Part 4 of 4 - 2026-06-23-064336</title>
+      <description>Added from catchupQueue on 2026-06-23 (Part 4 of 4)</description>
+      <pubDate>Wed, 24 Jun 2026 11:30:13 GMT</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1EgxSMaNNS75mHZQD76OmdMhCGe4dbp_C" length="123264" type="audio/mpeg" />
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1EgxSMaNNS75mHZQD76OmdMhCGe4dbp_C</guid>
       <itunes:author>Genghis</itunes:author>
       <itunes:image href="https://raw.githubusercontent.com/ccarfi/catchup-queue-podcast/main/cover.jpg" />
       <itunes:explicit>false</itunes:explicit>
