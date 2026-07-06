@@ -16,46 +16,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
     </image>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Personal Journals" />
-    <lastBuildDate>Sun, 05 Jul 2026 11:30:57 GMT</lastBuildDate>
-    <item>
-      <title>Kevin Kelly - The Forever Book - Part 1 of 4 - 2026-06-29-122137</title>
-      <description>Added from catchupQueue on 2026-06-29 (Part 1 of 4)</description>
-      <pubDate>Sun, 05 Jul 2026 11:30:57 GMT</pubDate>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1VUk1Z0AaTVa3TMFVull8Fv3VAyDiml-v" length="3650688" type="audio/mpeg" />
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1VUk1Z0AaTVa3TMFVull8Fv3VAyDiml-v</guid>
-      <itunes:author>Genghis</itunes:author>
-      <itunes:image href="https://raw.githubusercontent.com/ccarfi/catchup-queue-podcast/main/cover.jpg" />
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Kevin Kelly - The Forever Book - Part 2 of 4 - 2026-06-29-122216</title>
-      <description>Added from catchupQueue on 2026-06-29 (Part 2 of 4)</description>
-      <pubDate>Sun, 05 Jul 2026 11:30:57 GMT</pubDate>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=17hs2mUg2DjafQzogdtdDTIwaIC0YDNX_" length="3744000" type="audio/mpeg" />
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=17hs2mUg2DjafQzogdtdDTIwaIC0YDNX_</guid>
-      <itunes:author>Genghis</itunes:author>
-      <itunes:image href="https://raw.githubusercontent.com/ccarfi/catchup-queue-podcast/main/cover.jpg" />
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Kevin Kelly - The Forever Book - Part 3 of 4 - 2026-06-29-122253</title>
-      <description>Added from catchupQueue on 2026-06-29 (Part 3 of 4)</description>
-      <pubDate>Sun, 05 Jul 2026 11:30:57 GMT</pubDate>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1_CRy0ZT76caG8ALy_2iJNY2wb3j630bw" length="3525120" type="audio/mpeg" />
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1_CRy0ZT76caG8ALy_2iJNY2wb3j630bw</guid>
-      <itunes:author>Genghis</itunes:author>
-      <itunes:image href="https://raw.githubusercontent.com/ccarfi/catchup-queue-podcast/main/cover.jpg" />
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Kevin Kelly - The Forever Book - Part 4 of 4 - 2026-06-29-122311</title>
-      <description>Added from catchupQueue on 2026-06-29 (Part 4 of 4)</description>
-      <pubDate>Sun, 05 Jul 2026 11:30:57 GMT</pubDate>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1ObRmbQkPOX2As4yeWe1vYC9XoJt5twgl" length="1548288" type="audio/mpeg" />
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1ObRmbQkPOX2As4yeWe1vYC9XoJt5twgl</guid>
-      <itunes:author>Genghis</itunes:author>
-      <itunes:image href="https://raw.githubusercontent.com/ccarfi/catchup-queue-podcast/main/cover.jpg" />
-      <itunes:explicit>false</itunes:explicit>
-    </item>
+    <lastBuildDate>Mon, 06 Jul 2026 11:30:24 GMT</lastBuildDate>
+
   </channel>
 </rss>
