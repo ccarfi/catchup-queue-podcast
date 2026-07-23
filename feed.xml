@@ -16,36 +16,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
     </image>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Personal Journals" />
-    <lastBuildDate>Wed, 22 Jul 2026 11:31:05 GMT</lastBuildDate>
-    <item>
-      <title>Life With Machines - Date Farms, Not Data Centers! - Part 1 of 3 - 2026-07-16-145451</title>
-      <description>Added from catchupQueue on 2026-07-16 (Part 1 of 3)</description>
-      <pubDate>Wed, 22 Jul 2026 11:31:05 GMT</pubDate>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1DnJ-3wjxt4FXeq7uEh_n9Fguc-mqq0oo" length="3715968" type="audio/mpeg" />
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1DnJ-3wjxt4FXeq7uEh_n9Fguc-mqq0oo</guid>
-      <itunes:author>Genghis</itunes:author>
-      <itunes:image href="https://raw.githubusercontent.com/ccarfi/catchup-queue-podcast/main/cover.jpg" />
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Life With Machines - Date Farms, Not Data Centers! - Part 2 of 3 - 2026-07-16-145542</title>
-      <description>Added from catchupQueue on 2026-07-16 (Part 2 of 3)</description>
-      <pubDate>Wed, 22 Jul 2026 11:31:05 GMT</pubDate>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1bXk1LehLQDQ2tPjO05OiTPp4IzJE0RaV" length="3825792" type="audio/mpeg" />
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1bXk1LehLQDQ2tPjO05OiTPp4IzJE0RaV</guid>
-      <itunes:author>Genghis</itunes:author>
-      <itunes:image href="https://raw.githubusercontent.com/ccarfi/catchup-queue-podcast/main/cover.jpg" />
-      <itunes:explicit>false</itunes:explicit>
-    </item>
-    <item>
-      <title>Life With Machines - Date Farms, Not Data Centers! - Part 3 of 3 - 2026-07-16-145610</title>
-      <description>Added from catchupQueue on 2026-07-16 (Part 3 of 3)</description>
-      <pubDate>Wed, 22 Jul 2026 11:31:05 GMT</pubDate>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1jVShxdy0S5ju8vmH5ruAm7oZq2JcXpdn" length="1885824" type="audio/mpeg" />
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1jVShxdy0S5ju8vmH5ruAm7oZq2JcXpdn</guid>
-      <itunes:author>Genghis</itunes:author>
-      <itunes:image href="https://raw.githubusercontent.com/ccarfi/catchup-queue-podcast/main/cover.jpg" />
-      <itunes:explicit>false</itunes:explicit>
-    </item>
+    <lastBuildDate>Thu, 23 Jul 2026 11:30:58 GMT</lastBuildDate>
+
   </channel>
 </rss>
