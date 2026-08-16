@@ -16,7 +16,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
     </image>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Personal Journals" />
-    <lastBuildDate>Sun, 16 Aug 2026 16:42:02 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 16 Aug 2026 17:08:24 GMT</lastBuildDate>
     <item>
       <title>Inside Clean Energy - So much solar: Digging into the list of every U.S. power plant that went online this year - Part 1 of 3 - 2026-08-14-121736</title>
       <description>Added from catchupQueue on 2026-08-14 (Part 1 of 3)</description>
@@ -143,6 +143,16 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
       <pubDate>Sat, 15 Aug 2026 11:10:08 -0700</pubDate>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1ZLqG4TW9nRbKCpBdNMXolrcY873IOCOG" length="522240" type="audio/mpeg" />
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1ZLqG4TW9nRbKCpBdNMXolrcY873IOCOG</guid>
+      <itunes:author>Genghis</itunes:author>
+      <itunes:image href="https://raw.githubusercontent.com/ccarfi/catchup-queue-podcast/main/cover.jpg" />
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Old 97s - Book of Poems</title>
+      <description></description>
+      <pubDate>Sun, 16 Aug 2026 10:05:42 -0700</pubDate>
+      <enclosure url="https://archive.org/download/old97s2018-06-29/old97s2018-06-29.vwmule.t02.mp3" length="0" type="audio/mpeg" />
+      <guid isPermaLink="false">https://archive.org/download/old97s2018-06-29/old97s2018-06-29.vwmule.t02.mp3</guid>
       <itunes:author>Genghis</itunes:author>
       <itunes:image href="https://raw.githubusercontent.com/ccarfi/catchup-queue-podcast/main/cover.jpg" />
       <itunes:explicit>false</itunes:explicit>
