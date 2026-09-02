@@ -16,17 +16,7 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
     </image>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Personal Journals" />
-    <lastBuildDate>Tue, 01 Sep 2026 11:30:13 GMT</lastBuildDate>
-    <item>
-      <title>Business Insider - Today: Consulting&apos;s big rebrand - Part 1 of 1 - 2026-08-25-081759</title>
-      <description>Added from catchupQueue on 2026-08-25 (Part 1 of 1)</description>
-      <pubDate>Tue, 25 Aug 2026 08:18:03 -0700</pubDate>
-      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1Vy6qcKONRQa3z-BSFz0pOBqFKsRWXhmK" length="3003264" type="audio/mpeg" />
-      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1Vy6qcKONRQa3z-BSFz0pOBqFKsRWXhmK</guid>
-      <itunes:author>Genghis</itunes:author>
-      <itunes:image href="https://raw.githubusercontent.com/ccarfi/catchup-queue-podcast/main/cover.jpg" />
-      <itunes:explicit>false</itunes:explicit>
-    </item>
+    <lastBuildDate>Wed, 02 Sep 2026 11:30:07 GMT</lastBuildDate>
     <item>
       <title>Burning Man Journal via Feedrabbit - Burning Man Journal: Burning Man Project’s 2026 Sustainability Update - Part 1 of 2 - 2026-08-27-081813</title>
       <description>Added from catchupQueue on 2026-08-27 (Part 1 of 2)</description>
