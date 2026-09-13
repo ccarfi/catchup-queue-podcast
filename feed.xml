@@ -16,13 +16,43 @@ xmlns:content="http://purl.org/rss/1.0/modules/content/">
     </image>
     <itunes:explicit>false</itunes:explicit>
     <itunes:category text="Personal Journals" />
-    <lastBuildDate>Sat, 12 Sep 2026 11:30:06 GMT</lastBuildDate>
+    <lastBuildDate>Sun, 13 Sep 2026 11:30:07 GMT</lastBuildDate>
     <item>
       <title>Sarah Dopp - Why so serious? - Part 1 of 1 - 2026-09-08-121800</title>
       <description>Added from catchupQueue on 2026-09-08 (Part 1 of 1)</description>
       <pubDate>Tue, 08 Sep 2026 12:18:05 -0700</pubDate>
       <enclosure url="https://drive.google.com/uc?export=download&amp;id=1DRVCUyKJz3XI6xSeANlQohCC68m-vqTf" length="3104640" type="audio/mpeg" />
       <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1DRVCUyKJz3XI6xSeANlQohCC68m-vqTf</guid>
+      <itunes:author>Genghis</itunes:author>
+      <itunes:image href="https://raw.githubusercontent.com/ccarfi/catchup-queue-podcast/main/cover.jpg" />
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Christopher Carfi - CDR,fyi monthly newsletter - Part 1 of 3 - 2026-09-13-032427</title>
+      <description>Added from catchupURL on 2026-09-13 (Part 1 of 3)</description>
+      <pubDate>Sun, 13 Sep 2026 03:24:37 -0700</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1RmhvtVk5zV5v3Ho8cs1LncxhOIuntic9" length="3954432" type="audio/mpeg" />
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1RmhvtVk5zV5v3Ho8cs1LncxhOIuntic9</guid>
+      <itunes:author>Genghis</itunes:author>
+      <itunes:image href="https://raw.githubusercontent.com/ccarfi/catchup-queue-podcast/main/cover.jpg" />
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Christopher Carfi - CDR,fyi monthly newsletter - Part 2 of 3 - 2026-09-13-032430</title>
+      <description>Added from catchupURL on 2026-09-13 (Part 2 of 3)</description>
+      <pubDate>Sun, 13 Sep 2026 03:24:37 -0700</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=10csH5ncK6BoiHx8XUx0D38nDrLnbZ-Wt" length="3941376" type="audio/mpeg" />
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=10csH5ncK6BoiHx8XUx0D38nDrLnbZ-Wt</guid>
+      <itunes:author>Genghis</itunes:author>
+      <itunes:image href="https://raw.githubusercontent.com/ccarfi/catchup-queue-podcast/main/cover.jpg" />
+      <itunes:explicit>false</itunes:explicit>
+    </item>
+    <item>
+      <title>Christopher Carfi - CDR,fyi monthly newsletter - Part 3 of 3 - 2026-09-13-032433</title>
+      <description>Added from catchupURL on 2026-09-13 (Part 3 of 3)</description>
+      <pubDate>Sun, 13 Sep 2026 03:24:37 -0700</pubDate>
+      <enclosure url="https://drive.google.com/uc?export=download&amp;id=1HxkFLPX55skHJD1z3ZPmMtHc8Ico5shw" length="1456512" type="audio/mpeg" />
+      <guid isPermaLink="false">https://drive.google.com/uc?export=download&amp;id=1HxkFLPX55skHJD1z3ZPmMtHc8Ico5shw</guid>
       <itunes:author>Genghis</itunes:author>
       <itunes:image href="https://raw.githubusercontent.com/ccarfi/catchup-queue-podcast/main/cover.jpg" />
       <itunes:explicit>false</itunes:explicit>
